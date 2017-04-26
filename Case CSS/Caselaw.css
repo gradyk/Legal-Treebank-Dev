@@ -1,0 +1,164 @@
+body {
+    font-size:12pt;
+    font-family:roman, 'times new roman', times, serif;
+    line-height:14pt;
+    margin-left:auto;
+    margin-right:auto
+}
+
+publicationStmt {
+    display:block;
+    font-size:12pt;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center
+}
+
+sourceDesc {
+    display:block;
+    font-size:12pt;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center
+}
+
+title {
+    display:block;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:12pt;
+    text-align:center;
+    margin-bottom:10pt;
+    font-weight:bold
+}
+
+casename {
+    display:block;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:10pt;
+    width:4in;
+    margin-bottom:12pt
+}
+
+casenum {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    width:4in;
+    text-align:center;
+    margin-bottom:12pt
+}
+
+casewest {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:12pt
+}
+
+casecourt {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:12pt
+}
+
+casedate {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:12pt
+}
+
+casesum {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:justify;
+    margin-bottom:12pt    
+}
+
+casesubact {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:justify;
+    margin-bottom:12pt    
+}
+
+decbyjudge {
+    display:block;
+    font-size:10pt;
+    width:4.5in;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:justify    
+}
+caption {
+    display:block;
+    width:6.5in;
+    text-align:center;
+    font-size:12pt;
+    font-weight:bold;
+    margin-bottom:12pt
+}
+
+p {
+    display:block;
+    line-height:18pt;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:12pt
+}
+
+q {
+    display:block;
+    line-height:14pt;
+    background-color:#EDEEF9;
+    width:5.5in;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:12pt
+}
+
+quote {
+    background-color:#EDEEF9
+}
+
+dicta {
+    background-color:gray
+}
+
+ambig {
+    background-color:yellow
+}
+
+holding {
+    background-color:green
+}
+
+lawcit {
+    text-decoration: underline wavy #87CEEB
+}

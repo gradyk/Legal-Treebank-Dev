@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI for Law</title>
+        <author xml:id="KAG">Kenneth A. Grady</author>
+        <author xml:id="DBB">Daniel B. Barnhizer</author>
+        <sponsor xml:id="MSULC">Michiagn State University College of Law</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Michigan State University College of Law, LegalRnD - The Center for Legal Services Innovaiton</publisher>
+        <distributor>Michigan State University College of Law, LegalRnD - The Center for Legal Services Innovaiton</distributor>
+        <pubPlace>East Lansing, Michigan USA</pubPlace>
+        <address>
+          <addrLine>LegalRnD - The Center for Legal Services Innovation</addrLine>
+          <addrLine>648 N. Shaw Lane</addrLine>
+          <addrLine>East Lansing, Michigan 48824</addrLine>
+          <addrLine>United States of America</addrLine>
+        </address>
+        <availability status="free">
+          <p>
+            Licensed under an
+            <ref target="http://opensource.org/licenses/MIT">
+              MIT License.
+            </ref>Copyright 2017 Kenneth A. Grady. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+                
+                THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+          </p>
+        </availability>
+        <date when="2017-04-13">13 April 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A random presentation</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          TEI for Law provides a schema for coding legal documents, starting with written decisions issued by appellate courts (state and federal) in the United States of America.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      
+      <schemaSpec ident="tei4law" start="TEI" mode="add">
+        <moduleRef key="header"/>
+        <moduleRef key="core"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+        
+        <moduleSpec ident="header" mode="add">
+          <desc>
+            contains additional elements for tagging U.S. case decisions
+          </desc>
+        </moduleSpec>      
+        
+        <elementSpec module="header" ident="lawStmt" mode="add">
+          <desc>contains general descriptive information included in cases before the opinion</desc>
+          <classes>
+            <memberOf key="model.teiHeaderPart"/>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <textNode/>
+              <elementRef key="model.caseLike"/>
+            </alternate>
+            <classRef key="att.global.attributes"/>
+            <classRef key="att.declarable.attributes"/>
+          </content>
+          <remarks>
+            <p>At the beginning of U.S. case decisions, the court includes descriptive information about the case, lawyers, parties, and prior disposition.</p>
+            <p>This information is useful for identifying the case and classification (e.g., cases handled by particular lawyers or firms), but is not used in textual analysis of the case.</p>
+          </remarks>
+        </elementSpec>
+       
+        <elementSpec module="header" ident="casename" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the formal name of a case, may need to be repeated if two or more cases joined</p>
+          </remarks>
+        </elementSpec>
+
+        <elementSpec module="header" ident="casenum" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the formal number of a case, may need to be repeated if two or more cases joined</p>
+          </remarks>
+        </elementSpec>
+
+        <elementSpec module="header" ident="casedate" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the formal date of a case</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="casewest" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the Westlaw book citation for the case (e.g., 123 F.2d 456)</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="casesum" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the reporter's abstract or summary of the case</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="casesubact" mode="add">
+          <gloss>case subsequent actions</gloss>
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains actions in the case subsequent to the opinion, such as request for rehearing</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="casecourt" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the formal name of the court in which rendered the decision, such as Supreme Court of Alabama</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="decbyjudge" mode="add">
+          <gloss>decision by judge</gloss>
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the decision of each judge participating in the case, so this entry may be repeated several times</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="caseoutcome" mode="add">
+          <classes>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.caseLike"/>       
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains the case outcome, e.g. affirmed, reversed</p>
+          </remarks>
+        </elementSpec>
+
+        <elementSpec ident="fileDesc" mode="change">
+        <content>
+          <sequence>
+            <sequence>
+              <elementRef key="titleStmt"/>
+              <elementRef key="editionStmt"
+                minOccurs="0"/>
+              <elementRef key="extent" minOccurs="0"/>
+              <elementRef key="publicationStmt"/>
+              <elementRef key="seriesStmt"
+                minOccurs="0"/>
+              <elementRef key="notesStmt"
+                minOccurs="0"/>
+            </sequence>
+            <elementRef key="sourceDesc"
+              minOccurs="1" maxOccurs="unbounded"/>
+            <elementRef key="lawStmt"
+              minOccurs="1" maxOccurs="unbounded"/>
+          </sequence>
+        </content>
+        </elementSpec>
+        
+        <elementSpec module="tei" ident="lawcit" mode="add">
+          <gloss>law citations</gloss>
+          <classes>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.segLike"></memberOf>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains citations to law, whatever the form (e.g., cases, statutes, regulations, codes)</p>
+          </remarks>
+        </elementSpec>
+
+        <elementSpec module="tei" ident="s" mode="add">
+          <gloss>sentence</gloss>
+          <classes>
+            <memberOf key="att.global.attributes"></memberOf>
+            <memberOf key="model.segLike"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="att.declaring.attributes"/>
+            <memberOf key="att.fragmentable.attributes"/>
+            <memberOf key="att.written.attributes"/>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains a full sentence which can be parsed, but the sentence may not have quotes, cites, or other nested information</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="tei" ident="seg" mode="add">
+          <gloss>sentence</gloss>
+          <classes>
+            <memberOf key="att.global.attributes"></memberOf>
+            <memberOf key="model.segLike"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="att.declaring.attributes"/>
+            <memberOf key="att.fragmentable.attributes"/>
+            <memberOf key="att.written.attributes"/>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <textNode/>
+              <textNode/>
+            </alternate>
+          </content>
+          <remarks>
+            <p>contains a part of a sentence which can be parsed, but the part may not have quotes, cites, or other nested information</p>
+          </remarks>
+        </elementSpec>
+        
+        <classSpec module="tei" type="model" ident="model.caseLike" mode="add">
+          <desc>contains those elements needed for the case header that describe basic case information</desc>
+        </classSpec>
+
+        
+      <classRef key="att.global"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
