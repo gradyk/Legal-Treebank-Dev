@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="/Users/gradyke/Documents/LegalRnD/LegalRnD - Barnhizer Grady Paper/Tagging Am Gen v Branch/Caselaw.css" ?>
-
-<?xml-model href="out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/css" href="../Case%20CSS/Caselaw.css"?>
+<?xml-model href="../Case%20Schemas/out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,20 +11,18 @@
              <p>Michigan State University College of Law</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Case Law Treebank</p>
-            <p>Part of the TEI for Law Project</p>
+            <p>Legal Treebank</p>
+            <p>Part of the Code the Courts Project</p>
          </sourceDesc>
           <lawStmt>
               <casecourt>Supreme Court of Alabama</casecourt>
-              <casename>AMERICAN GENERAL FINANCE, INC., et al. v. Mable BRANCH</casename>
-              <casename>American General Finance, Inc. v. April Reaves</casename>
-              <casewest>793 So.2d 738</casewest>
-              <casenum>1990887</casenum>
-              <casenum>1990888</casenum>
+              <casename>American General Finance, Inc. et al. v. Mable Branch</casename><casenum>1990887</casenum><casedispo>1990887 affirmed</casedispo>
+              <casename>American General Finance, Inc. v. April Reaves</casename><casenum>1990888</casenum><casedispo>1990888 reversed and remanded; application for rehearing overruled</casedispo>
+              <caserpt>793 So.2d 738</caserpt>
               <casedate>Dec. 22, 2000</casedate>
               <casesum>Borrowers brought action against lender and credit life and disability insurers to recover for the collection of excessive finance charges and premiums. Lender and insurers moved to compel arbitration. The Circuit Court, Hale County, Nos. CV-98-065 and CV-98-120, Marvin W. Wiggins, J., denied the motions. Lender and insurers appealed. The Supreme Court, Cook, J., held that: (1) the Federal Arbitration Act (FAA) applied; (2) the threshold issue of unconscionability of arbitration clauses was a question for the court; and (3) the clause was unconscionable with respect to one borrower.</casesum>
-              <casesubact>Concurring Opinion on Denial of Rehearing March 30, 2001.</casesubact>
-              <decbyjudge>See, concurred in case no. 1990888</decbyjudge>
+              <casesubact>Concurring Opinion on Denial of Rehearing March 30, 2001</casesubact>
+              <decbyjudge>See concurred in case no. 1990888</decbyjudge>
               <decbyjudge>See dissented in case no. 1990887, filed opinion, dissented from denial of rehearing</decbyjudge>
               <decbyjudge>Hooper concurred in the result in case no. 1990888</decbyjudge>
               <decbyjudge>Hooper dissented in case no. 1990887, and filed opinion.</decbyjudge>
@@ -34,31 +31,45 @@
               <decbyjudge>Brown  concurred in the result in case no. 1990888</decbyjudge>
               <decbyjudge>Brown and dissented in case no. 1990887</decbyjudge>
               <decbyjudge>Johnstone dissented in case no. 1990888</decbyjudge>
-              <decbyjudge>Lyons, J., concurred specially in denial of rehearing and filed opinion</decbyjudge>
+              <decbyjudge>Lyons concurred specially in denial of rehearing and filed opinion</decbyjudge>
               <decbyjudge>Houston dissented from denial of rehearing</decbyjudge>
               <decbyjudge>Brown dissented from denial of rehearing</decbyjudge>
               <decbyjudge>Stuart dissented from denial of rehearing</decbyjudge>
-              <caseoutcome>1990887–affirmed</caseoutcome>
-              <caseoutcome>1990888–reversed and remanded; application for rehearing overruled</caseoutcome>
+              <counsel>
+                  <persName>Robert H. Rutherford</persName>
+                  <persName>Richard C. Keller</persName>
+                  <persName>F.A. Flowers III</persName>
+                  <orgName>Burr &amp; Forman, L.L.P.</orgName>
+                  <placeName>Birmingham</placeName>
+                  <ptyRole>appellants</ptyRole>
+              </counsel>
+              <counsel>
+                  <persName>Garve W. Ivy, Jr.</persName>
+                  <orgName>Ivey &amp; Ragsdale, Jasper</orgName>
+                  <ptyRole>appellees</ptyRole>    
+              </counsel>
+              <counsel>
+                  <persName>Robert A. Huffaker</persName>
+                  <orgName>Rushton, Stakely, Johnston &amp; Garrett, P.A.</orgName>
+                  <placeName>Montgomery</placeName>
+                  <amicus>amicus curiae Automobile Dealers Association of Alabama, in support of the appellants’ application for rehearing. Matthew C. McDonald of Miller, Hamilton, Snider &amp; Odom, L.L.C., Mobile, for amici curiae Alabama Retail Association and Alabama Civil Justice Reform Committee, in support of the appellants’ application for rehearing.</amicus>
+              </counsel>
+              <counsel>
+                  <persName>H. Hampton Boles</persName>
+                  <persName>Michael L. Edwards</persName>
+                  <orgName>Balch &amp; Bingham, L.L.P.</orgName>
+                  <placeName>Birmingham</placeName>
+                  <amicus>amicus curiae Alabama Bankers Association, in support of the appellants’ application for rehearing</amicus>
+              </counsel>             
           </lawStmt>
       </fileDesc>
   </teiHeader>
     <text>
       <body>
-            
-        <p>Attorneys and Law Firms</p>
-
-        <p>Robert H. Rutherford, Richard C. Keller, and F.A. Flowers III of Burr &amp; Forman, L.L.P., Birmingham, for appellants.</p>
-          
-        <p>Garve W. Ivy, Jr., of Ivey &amp; Ragsdale, Jasper, for appellees.</p>
-          
-        <p>Robert A. Huffaker of Rushton, Stakely, Johnston &amp; Garrett, P.A., Montgomery, for amicus curiae Automobile Dealers Association of Alabama, in support of the appellants’ application for rehearing. Matthew C. McDonald of Miller, Hamilton, Snider &amp; Odom, L.L.C., Mobile, for amici curiae Alabama Retail Association and Alabama Civil Justice Reform Committee, in support of the appellants’ application for rehearing.</p>
-
-        <p>H. Hampton Boles and Michael L. Edwards of Balch &amp; Bingham, L.L.P., Birmingham, for amicus curiae Alabama Bankers Association, in support of the appellants’ application for rehearing.</p>
         
         <div1 xml:id="opinion">
             <p>Opinion</p>
-               <p><name role="Justice" type="person">COOK, Justice.</name></p>
+            <p><name role="judge" type="person">COOK</name>, Justice.</p>
                 
             <p><s>American General Finance, Inc. (“American General”); Merit Life Insurance Co. (“Merit”); and Yosemite Insurance Company (“Yosemite”) (collectively “the Lenders”) appeal from an order denying their motions to compel the arbitration of claims presented in an action commenced by Mable Branch (appeal no. 1990887) and an order denying their motions to compel the arbitration of claims presented in an action commenced by April Reaves (appeal no. 1990888).</s> <s>We affirm as to case 1990887, but as to case 1990888 we reverse and remand.</s></p>
  

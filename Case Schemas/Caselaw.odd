@@ -46,10 +46,20 @@
     <body>
       
       <schemaSpec ident="tei4law" start="TEI" mode="add">
-        <moduleRef key="header"/>
-        <moduleRef key="core"/>
-        <moduleRef key="tei"/>
-        <moduleRef key="textstructure"/>
+        <moduleRef key="tei"/>              <!-- required -->
+        <moduleRef key="core"/>             <!-- required -->
+        <moduleRef key="header"/>           <!-- required -->
+        <moduleRef key="analysis"/>
+        <moduleRef key="certainty"/>
+        <moduleRef key="corpus"/>
+        <moduleRef key="figures"/>
+        <moduleRef key="linking"/>
+        <moduleRef key="msdescription"/>
+        <moduleRef key="namesdates"/>
+        <moduleRef key="textcrit"/>
+        <moduleRef key="textstructure"/>    <!-- required -->
+        <moduleRef key="transcr"/>
+        <moduleRef key="tagdocs"/>
         
         <moduleSpec ident="header" mode="add">
           <desc>
@@ -127,7 +137,8 @@
           </remarks>
         </elementSpec>
         
-        <elementSpec module="header" ident="casewest" mode="add">
+        <elementSpec module="header" ident="caserpt" mode="add">
+          <gloss>case reporter where printed decision appears</gloss>
           <classes>
             <memberOf key="macro.phraseSeq"/>
             <memberOf key="att.global.attributes"/>
@@ -140,7 +151,7 @@
             </alternate>
           </content>
           <remarks>
-            <p>contains the Westlaw book citation for the case (e.g., 123 F.2d 456)</p>
+            <p>contains a case reporter citation for the case (e.g., 123 F.2d 456)</p>
           </remarks>
         </elementSpec>
         
@@ -214,7 +225,8 @@
           </remarks>
         </elementSpec>
         
-        <elementSpec module="header" ident="caseoutcome" mode="add">
+        <elementSpec module="header" ident="casedispo" mode="add">
+          <gloss>case disposition</gloss>
           <classes>
             <memberOf key="macro.phraseSeq"/>
             <memberOf key="att.global.attributes"/>
@@ -228,6 +240,70 @@
           </content>
           <remarks>
             <p>contains the case outcome, e.g. affirmed, reversed</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec module="header" ident="counsel" mode="add">
+          <gloss>case disposition</gloss>
+          <classes>
+            <memberOf key="model.teiHeaderPart"/>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.counselPart"/>
+            <memberOf key="model.caseLike"/>
+          </classes>
+          <content>
+            <alternate minOccurs="0" maxOccurs="unbounded">
+              <elementRef key="orgName"/>
+              <elementRef key="persName"/>
+              <elementRef key="ptyRole"/>
+              <elementRef key="placeName"/>
+              <elementRef key="name"/>
+              <elementRef key="amicus"/>
+            </alternate>
+            <classRef key="att.global.attributes"/>
+            <classRef key="att.declarable.attributes"/>           
+          </content>
+          <remarks>
+            <p>contains the names and affiliations of lawyers in the case</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec ident="ptyRole" mode="add">
+          <classes>
+            <memberOf key="model.teiHeaderPart"/>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.counselPart"/>
+            <memberOf key="model.caseLike"/>
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>      
+          </content>
+          <remarks>
+            <p>role of the party in the decision</p>
+          </remarks>
+        </elementSpec>
+        
+        <elementSpec ident="amicus" mode="add">
+          <classes>
+            <memberOf key="model.teiHeaderPart"/>
+            <memberOf key="macro.phraseSeq"/>
+            <memberOf key="att.global.attributes"/>
+            <memberOf key="model.counselPart"/>
+            <memberOf key="model.caseLike"/>
+          </classes>
+          <content>
+            <alternate>
+              <textNode/>
+              <textNode/>
+            </alternate>      
+          </content>
+          <remarks>
+            <p>information about amicus filings in the proceedings</p>
           </remarks>
         </elementSpec>
 
@@ -269,54 +345,27 @@
             <p>contains citations to law, whatever the form (e.g., cases, statutes, regulations, codes)</p>
           </remarks>
         </elementSpec>
-
-        <elementSpec module="tei" ident="s" mode="add">
-          <gloss>sentence</gloss>
-          <classes>
-            <memberOf key="att.global.attributes"></memberOf>
-            <memberOf key="model.segLike"/>
-            <memberOf key="att.global.attributes"/>
-            <memberOf key="att.declaring.attributes"/>
-            <memberOf key="att.fragmentable.attributes"/>
-            <memberOf key="att.written.attributes"/>
-          </classes>
-          <content>
-            <alternate minOccurs="0" maxOccurs="unbounded">
-              <textNode/>
-              <textNode/>
-            </alternate>
-          </content>
-          <remarks>
-            <p>contains a full sentence which can be parsed, but the sentence may not have quotes, cites, or other nested information</p>
-          </remarks>
-        </elementSpec>
         
-        <elementSpec module="tei" ident="seg" mode="add">
-          <gloss>sentence</gloss>
-          <classes>
-            <memberOf key="att.global.attributes"></memberOf>
-            <memberOf key="model.segLike"/>
-            <memberOf key="att.global.attributes"/>
-            <memberOf key="att.declaring.attributes"/>
-            <memberOf key="att.fragmentable.attributes"/>
-            <memberOf key="att.written.attributes"/>
-          </classes>
-          <content>
-            <alternate minOccurs="0" maxOccurs="unbounded">
-              <textNode/>
-              <textNode/>
-            </alternate>
-          </content>
-          <remarks>
-            <p>contains a part of a sentence which can be parsed, but the part may not have quotes, cites, or other nested information</p>
-          </remarks>
-        </elementSpec>
+         <elementSpec ident="placeName" mode="change">
+           <classes>
+             <memberOf key="model.counselPart"/>
+           </classes>
+         </elementSpec>
         
+        <elementSpec ident="persName" mode="change">
+          <classes>
+            <memberOf key="model.counselPart"/>
+          </classes>
+        </elementSpec>
+         
         <classSpec module="tei" type="model" ident="model.caseLike" mode="add">
           <desc>contains those elements needed for the case header that describe basic case information</desc>
         </classSpec>
-
         
+        <classSpec module="tei" type="model" ident="model.counselPart" mode="add">
+          <desc>contains those elements needed for the counsel portion of the case header</desc>
+        </classSpec>
+
       <classRef key="att.global"/>
       </schemaSpec>
     </body>
