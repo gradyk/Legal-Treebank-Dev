@@ -355,6 +355,8 @@
         <elementSpec ident="persName" mode="change">
           <classes>
             <memberOf key="model.counselPart"/>
+            <memberOf key="model.pLike"/>
+            <memberOf key="att.global.attributes"/>
           </classes>
         </elementSpec>
          

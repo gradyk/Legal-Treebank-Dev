@@ -147,7 +147,6 @@ p {
 q {
     display:block;
     line-height:14pt;
-    background-color:#EDEEF9;
     width:5.5in;
     margin-left:auto;
     margin-right:auto;
@@ -171,7 +170,8 @@ holding {
 }
 
 lawcit {
-    text-decoration: underline wavy #87CEEB
+    text-decoration: none;
+    border-bottom: 8px solid #84E7F8
 }
 
 counsel {
@@ -181,4 +181,14 @@ counsel {
     margin-left:auto;
     margin-right:auto;
     margin-bottom:12pt
+}
+
+edition {
+    display:block;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:12pt;
+    text-align:center;
+    margin-bottom:10pt
 }

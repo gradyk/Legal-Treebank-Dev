@@ -5,14 +5,20 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-             <title>[Corpus File Number]</title>
+             <title>US-AL-000001-2014-1990887</title>
          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <ref target="../Case%20Original/Master%20Case%20(Original).rtf"/>
+              </edition>
+          </editionStmt>
          <publicationStmt>
              <p>Michigan State University College of Law</p>
+             <p>Code the Courts Project</p>
+             <p>Legal Treebank</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Legal Treebank</p>
-            <p>Part of the Code the Courts Project</p>
+            <p>Link to Print Version of Case</p>
          </sourceDesc>
           <lawStmt>
               <casecourt>Supreme Court of Alabama</casecourt>
@@ -66,10 +72,9 @@
   </teiHeader>
     <text>
       <body>
-        
         <div1 xml:id="opinion">
             <p>Opinion</p>
-            <p><name role="judge" type="person">COOK</name>, Justice.</p>
+            <persName>COOK</persName>
                 
             <p><s>American General Finance, Inc. (“American General”); Merit Life Insurance Co. (“Merit”); and Yosemite Insurance Company (“Yosemite”) (collectively “the Lenders”) appeal from an order denying their motions to compel the arbitration of claims presented in an action commenced by Mable Branch (appeal no. 1990887) and an order denying their motions to compel the arbitration of claims presented in an action commenced by April Reaves (appeal no. 1990888).</s> <s>We affirm as to case 1990887, but as to case 1990888 we reverse and remand.</s></p>
  
@@ -303,9 +308,9 @@
             <p><s>In summary, the order in the Branch case is affirmed.</s> <s>The order in the Reaves case is reversed and the case is remanded.</s></p>
             
             
-               <p>1990887—AFFIRMED.</p>
+            <p>1990887—AFFIRMED.</p>
  
-                <p><name role="Justice" type="person">HOUSTON,</name> <name role="Justice" type="person">LYONS,</name> <name role="Justice" type="person">JOHNSTONE,</name> and <name role="Justice" type="person">ENGLAND,</name> JJ., concur.</p>
+            <persName>HOUSTON</persName> <persName>LYONS</persName> <persName>JOHNSTONE</persName> <persName>ENGLAND</persName><p>concur</p>
           
                 <p>HOOPER, C.J., and MADDOX, SEE, and BROWN, JJ., dissent.</p>
 
@@ -350,15 +355,14 @@
             <p>PER CURIAM.</p>
 
             <p>APPLICATION OVERRULED.</p>
- 
-            <p>MOORE, C.J., and JOHNSTONE, HARWOOD, and WOODALL, JJ., concur.</p>
+     <persName>MOORE</persName><persName>JOHNSTONE</persName><persName>HARWOOD</persName><persName>WOODALL</persName><p>concur</p>
 
-            <p>LYONS, J., concurs specially.</p>
+            <persName>LYONS</persName><p>concurs specially</p>
 
-            <p>HOUSTON, SEE, BROWN, and STUART, JJ., dissent.</p>
+        <persName>HOUSTON</persName><persName>SEE</persName><persName>BROWN</persName><persName>STUART</persName><p>dissent</p>
         </div1>
         <div1 xml:id="rehearconcur">
-            <p>LYONS, Justice (concurring specially).</p>
+            <persName>LYONS</persName><p>concurring specially</p>
 
             <p><lawcit>First Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 115 S.Ct. 1920, 131 L.Ed.2d 985 (1995),</lawcit> <seg>dealing only with the question whether an arbitration agreement was executed, held that a clear expression of intent to arbitrate the question of arbitrability would place that issue before the arbitrator and not the court.</seg> <seg>In</seg> <lawcit>Prima Paint Corp. v. Flood &amp; Conklin Mfg. Co., 388 U.S. 395, 87 S.Ct. 1801, 18 L.Ed.2d 1270 (1967),</lawcit> <seg>decided 28 years earlier, the United States Supreme Court had held that the issue of unconscionability was for the court and not the arbitrator.</seg> <s>First Options, which does not involve claims of fraud in the inducement of the arbitration clause or claims that the clause was unconscionable, does not even mention Prima Paint.</s></p>
           

@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2017-04-27T16:51:31Z. .
+Schema generated from ODD source 2017-04-30T17:35:55Z. .
 TEI Edition: Version 3.1.0. Last updated on
 	15th December 2016, revision d3f5e70
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
@@ -134,7 +134,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e89016-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e89017-constraint">
          <rule context="tei:content">
             <report test="descendant::*[not(namespace-uri(.) = ('http://relaxng.org/ns/structure/1.0'))]">content content must be in the namespace ''</report>
          </rule>
@@ -160,7 +160,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e89333-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e89334-constraint">
          <rule context="tei:constraint">
             <report test="descendant::*[not(namespace-uri(.) = ('http://purl.oclc.org/dsdl/schematron'))]">constraint content must be in the namespace ''</report>
          </rule>
@@ -186,7 +186,7 @@ TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
             </choice>
          </zeroOrMore>
       </element>
-      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e90224-constraint">
+      <pattern xmlns="http://purl.oclc.org/dsdl/schematron" id="d9e90225-constraint">
          <rule context="tei:datatype">
             <report test="descendant::*[not(namespace-uri(.) = ('http://relaxng.org/ns/structure/1.0'))]">datatype content must be in the namespace ''</report>
          </rule>
@@ -3041,17 +3041,20 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <choice>
          <ref name="p"/>
          <ref name="ab"/>
+         <ref name="persName"/>
       </choice>
    </define>
    <define name="model.pLike_alternation">
       <choice>
          <ref name="p"/>
          <ref name="ab"/>
+         <ref name="persName"/>
       </choice>
    </define>
    <define name="model.pLike_sequence">
       <ref name="p"/>
       <ref name="ab"/>
+      <ref name="persName"/>
    </define>
    <define name="model.pLike_sequenceOptional">
       <optional>
@@ -3059,6 +3062,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </optional>
       <optional>
          <ref name="ab"/>
+      </optional>
+      <optional>
+         <ref name="persName"/>
       </optional>
    </define>
    <define name="model.pLike_sequenceOptionalRepeatable">
@@ -3068,6 +3074,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <zeroOrMore>
          <ref name="ab"/>
       </zeroOrMore>
+      <zeroOrMore>
+         <ref name="persName"/>
+      </zeroOrMore>
    </define>
    <define name="model.pLike_sequenceRepeatable">
       <oneOrMore>
@@ -3075,6 +3084,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
       <oneOrMore>
          <ref name="ab"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="persName"/>
       </oneOrMore>
    </define>
    <define name="model.stageLike">
