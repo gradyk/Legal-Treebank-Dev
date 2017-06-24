@@ -1,5 +1,5 @@
 body {
-    font-size:12pt;
+    font-size:14pt;
     font-family:roman, 'times new roman', times, serif;
     line-height:14pt;
     margin-left:auto;
@@ -9,7 +9,7 @@ body {
 publicationStmt {
     display:block;
     font-size:12pt;
-    width:6.5in;
+    width:8.5in;
     margin-left:auto;
     margin-right:auto;
     text-align:center
@@ -18,7 +18,7 @@ publicationStmt {
 sourceDesc {
     display:block;
     font-size:12pt;
-    width:6.5in;
+    width:8.5in;
     margin-left:auto;
     margin-right:auto;
     text-align:center
@@ -26,7 +26,7 @@ sourceDesc {
 
 title {
     display:block;
-    width:6.5in;
+    width:8.5in;
     margin-left:auto;
     margin-right:auto;
     font-size:12pt;
@@ -138,40 +138,10 @@ caption {
 p {
     display:block;
     line-height:18pt;
-    width:6.5in;
+    width:8.5in;
     margin-left:auto;
     margin-right:auto;
     margin-bottom:12pt
-}
-
-q {
-    display:block;
-    line-height:14pt;
-    width:5.5in;
-    margin-left:auto;
-    margin-right:auto;
-    margin-bottom:12pt
-}
-
-quote {
-    background-color:#EDEEF9
-}
-
-dicta {
-    background-color:gray
-}
-
-ambig {
-    background-color:yellow
-}
-
-holding {
-    background-color:green
-}
-
-lawcit {
-    text-decoration: none;
-    border-bottom: 8px solid #84E7F8
 }
 
 counsel {
@@ -180,7 +150,9 @@ counsel {
     width:5.5in;
     margin-left:auto;
     margin-right:auto;
-    margin-bottom:12pt
+    margin-bottom:12pt;
+    margin-top:12pt;
+    font-size:10pt
 }
 
 edition {
@@ -191,4 +163,39 @@ edition {
     font-size:12pt;
     text-align:center;
     margin-bottom:10pt
+}
+
+lawcit {
+    text-decoration: none;
+    border-bottom: 6px solid #84E7F8
+}
+
+s[type="issue"] {
+    text-decoration: none;
+    border-bottom: 6px solid #FFA500
+}
+
+s[type="procedure"] {
+    text-decoration: none;
+    border-bottom: 6px solid #00FF00
+}
+
+s[type="holding"] {
+    text-decoration: none;
+    border-bottom: 6px solid #FF0000
+}
+
+s[type="reasoning"] {
+    text-decoration: none; 
+    border-bottom: 6px solid #000000
+}
+
+s[type="fact"] {
+    text-decoration: none; 
+    border-bottom: 6px solid #F6BEC8
+}
+
+s[type="rule"] {
+    text-decoration: none; 
+    border-bottom: 6px solid #FFFF00
 }
