@@ -1,0 +1,3467 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red33\green33\blue33;
+\red119\green119\blue119;
+\red254\green254\blue0;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red107\green107\blue106;
+\red232\green233\blue232;
+\red249\green249\blue249;
+\red204\green204\blue204;
+\red117\green117\blue117;
+\red236\green236\blue236;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red187\green187\blue187;
+\red255\green255\blue174;
+\red247\green247\blue247;
+\red80\green80\blue80;
+\red120\green162\blue47;
+\red246\green246\blue246;
+\red227\green227\blue227;
+\red20\green93\blue164;
+\red105\green105\blue105;
+\red56\green124\blue43;
+\red151\green151\blue151;
+\red190\green190\blue252;
+\red181\green79\blue104;
+\red238\green238\blue238;
+\red204\green255\blue255;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red127\green127\blue127;
+\red240\green248\blue255;
+\red71\green120\blue194;
+\red182\green231\blue243;
+\red183\green242\blue206;
+\red214\green214\blue214;
+\red102\green0\blue102;
+\red243\green243\blue243;
+\red255\green255\blue102;
+\red153\green255\blue102;
+\red255\green194\blue211;
+\red228\green231\blue232;
+\red0\green114\blue168;
+\red118\green118\blue118;
+\red102\green102\blue102;
+\red249\green250\blue251;
+\red220\green220\blue220;
+\red68\green68\blue68;
+\red255\green210\blue183;
+\red221\green195\blue236;
+\red21\green137\blue21;
+\red172\green172\blue172;
+\red9\green56\blue84;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}{
+\f6 Source Sans Pro;}{
+\f7 Courier New;}{
+\f8 monospace;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Grady, Kenneth
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+6/29/2017
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Ex parte Thicklin, 824 So.2d 723 (2002)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+2002-1 Trade Cases P 73,576
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffff8a969f6913ff68931fff9f5f69241f5852af68d38fcddc4f58326fac294f8a868fac193fcdabefab985fcdfc7fef5eef58022f8a35efef6effde5d2fac092fffaf6f9ac6ffffcfafde8d7fef7f1f9b279f6862cf8aa6af79e56f79c53f58327fef1e7fde3cefeeee2f9b076f79a4efef8f4f58123f58224f9ae72feefe4f58021f9ae71fac295fffaf7fcdabffef7f2f9af73f9b177f8ac6ef9b47cf8a15bf6872ef79648fef5edf9b278fcd9bdf9b782f9b57efbc89ffde3cffffefdf6872df8aa6bfcd6b8fac59af9b781fabc8bfffbf8fac091fac396fbceaaf8a461f68e39f6882ffabe8dfabf8ff9b884f79c52fdeadbfeede0f68c36f89f58fcdcc3fde0c9fef0e5fef3eaf68f3cfbcaa2f8a867f9b37afaba87f68b35fde7d6fabf90fffcfbfaba86fde7d5f6903efffdfcfef4ecf68f3bfde1cafcdfc6fbd1affbcea9fcd6b7f68a33f79444fbcba5f58429fcdec6f9af74f8a25df58428f7a461fef4edfdede0fde6d4fde7d4f9b680fbc69cfbc8a0f9b37bfac9a1f69240f79d54fcd4b4f9b883f68e3afef8f3fdebddfde2cbf7984cf8a35ff6882efef3ebf9bd8cfcd4b5feecdef8a562fde6d3fef9f4fcdbc1f9bc8afcd8bcf8ab6dfef8f2fcd7b9fffbf7feefe3f79546f8aa69f79f57fde1cbfcd3b3fcd2b1f8a25cfcd3b2fde2ccfac599fac397f9b379fcd8bbfbd2b0fef2e9fcd5b6fac79ef8a664f8a460f68a32fac090fffbf9fef2e8f8ab6cfde4d0f7994df6903df79749fffefcf79e55f8a766f8a059f68830f7974afde2cdfbcca6fabd8cf57f200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007df8d2030000000174524e530040e6d866000000097048597300000b1300000b1301009a9c18000002814944415478da636680023eb5570ce186e2a55b85b5f54d94595f337247083ee592d448fdcda26527d272e93da364d58d865d10c58b1f7a9d67708e7cf97682a87fe1ca5469f97b50539860c62dfb67c1f029a9f211c3d7ae33bff2ffb03046ae53e3dac4106b76e2b9c17235a9598c8caa5f179f80a80d94eeb9c9c0a0ef22c1a09de8f891e168e14d98292c3046e2ca55271e247d9cc1a0cae067ca607583618efd56be2f0f7318b4b215661d7efa9289e1d07b67a8e3f8e3384d84dfaa30c830f4de7f64c0f09841fe11ba71210c9f18945efc3fc3d0d5744389618d0483e77cb587bb27763ebb96cdc0f0e6a6fb1f0686fb309b972c5d9dea9ad4fd428381e7bbc84986bf0cd761a630c318f7150ffeee3fd478f6cb0ce15bd767fff9f1e3b2d0e36a4ff1d97a1f8006b1fe7af31d6875d4ca9f20a539792fdb7f9dbffd4131e6c16f3981f7e12f9f5dfcc7800e84cc6dd80c380a7c657818fa39f33475c4973130f0aa30ed2be9616010601602aae0dac70f56e9b24f3fa84f41912189792fe7c234366b5646064ce0acee309ba18c9d992d8c41649f3b4c542c67df0e84714ae0f099b98f8d4d7b5f36833e27f36603860033f57c060ccf3230be9d767ff7d115e98bdf7ee60a65c8bd2eae7fb7dc7ff757a5b65d1f193836f01d077a396aaec04f95b7ba519fde581d7ffef3da1fdbe9c18f199ecd5977e90ba671c59c6699bf187e5aac7ac7b09cbd63d64b9f131cbb2523c3b8eec51d60889bc37803e8c650f725ffdeb1ff09c9397de1d7c74ec9dd550276eb1916720b3c7a8969dcbee0e9124f182c7a7ffd62f8bfebdb4b869b759f0a369e8dde9b92cbc070d1e21d3029fcbb76f0298383ef8997a0e427be85e3eae7d99f6f3004aff2ef861b0200a155f504c5b3927b0000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2017 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \par}\sect\sbknone\pgncont\cols1{\ids0 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I09eaf8600bf411d9bc18e8274af85244_Target}{\*\bkmkend I09eaf8600bf411d9bc18e8274af85244_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+824 So.2d 723
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of Alabama.
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+Ex parte Sharon THICKLIN.
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+(In re Sharon Thicklin
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Search/Results.html?query=advanced%3a+OAID(5007515044)&saveJuris=False&contentType=BUSINESS-INVESTIGATOR&startIndex=1&contextData=(sc.Default)&categoryPageUrl=Home%2fCompanyInvestigator&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem" }{\fldrslt 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Fantasy Mobile Homes, Inc.
+}}}
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+, et al.)
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\li200 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1000224.
+\par 
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\li200 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+|
+\par 
+}
+}
+{\li200 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Jan. 11, 2002.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mobile-home buyer petitioned for writ of mandamus to require the Circuit Court, Elmore County, No. CV\u8211\'3f99\u8211\'3f501, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0112466501&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+John B. Bush
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, J., to vacate order compelling arbitration of claims against seller and manufacturer for breach of warranty, violation of the Magnuson\u8211\'3fMoss Act, negligence, and fraud. The Supreme Court, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0206329801&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Lyons
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, J., held that: (1) as a matter of first impression, a contract provision immunizing a party from liability for punitive damages is substantively unconscionable; (2) the portion of the arbitration clause that prohibited the arbitrator from awarding punitive damages was thus void; (3) the manufacturer violated the Magnuson\u8211\'3fMoss Act by failing to disclose the arbitration clause in its written warranty or its consumer manual, overruling 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Mfg., Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 823 So.2d 1237;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and (4) the sale was a transaction that substantially affected interstate commerce.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petition granted in part and denied in part; writ issued.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Houston and Harwood, JJ., concurred specially and filed opinions.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+See, J., concurred in part, dissented in part, and filed opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Moore, C.J., concurred in the result in part, dissented in part, and filed opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf20 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_725_1}{\*\bkmkend co_pp_sp_735_725_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*725
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ G. Houston Howard II of Howard, Dunn, Howard & Howard, Wetumpka, for petitioner.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0190191801&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Charles B. Paterson
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0359712501&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+J. Beth Moscarelli
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of Balch & Bingham, L.L.P., Montgomery, for appellee Fantasy Mobile Homes (brief in support of application for rehearing filed by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0163894001&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Sterling G. Culpepper
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0190191801&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Charles B. Paterson
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ of Balch & Bingham, L.L.P., Montgomery).
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+John R. Bradwell of Hill, Hill, Carter, Franco, Cole & Black, P.C., Montgomery, for appellees Riverchase Homes and Cavalier Manufacturing, Inc.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0159038101&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+W. Scott Simpson
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0222196301&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Dan E. Batchelor
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, and Gordon L. Blair of Batchelor & Simpson, P.C., Birmingham, for amicus curiae Southern Energy Homes, Inc., on application for rehearing.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeee9143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeee9143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb600 \fs20 \cf1 \i1 
+On Applications for Rehearing
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0206329801&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+LYONS
+}}}
+\sa200 
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+, Justice.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The opinion of October 12, 2001, is withdrawn, and the following is substituted therefor.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_726_1}{\*\bkmkend co_pp_sp_735_726_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*726
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Sharon Thicklin is the plaintiff in an action pending in the Elmore Circuit Court. She petitions for a writ of mandamus directing Judge John B. Bush to vacate his order of June 30, 2000, granting the defendants\rquote  motions to compel arbitration, and his order of September 21, 2000, denying Thicklin\rquote s motion to alter, amend, or vacate the June 30 order. For the reasons discussed below, we grant the petition in part and deny it in part.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeea143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeea143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+I.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On June 22, 1998, Thicklin purchased a mobile home from Fantasy Mobile Homes, Inc. (\u8220\'3fFantasy\u8221\'3f). Fantasy is located in Montgomery. Cavalier Manufacturing, Inc., doing business as Riverchase Homes, manufactured the home in Haleyville. Cavalier is a Delaware corporation; Riverchase is a division of Cavalier (the manufacturer will hereinafter be referred to as \u8220\'3fRiverchase\u8221\'3f). Thicklin and representatives of Riverchase and Fantasy executed a document entitled an \u8220\'3fAcknowledgment and Agreement (HUD Code Home).\u8221\'3f Paragraph 10 of that contract contains the following arbitration clause:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3f10. 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+ARBITRATION AND WAIVER OF JURY TRIAL.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ All parties acknowledge and agree that this Agreement and the performance of the transactions contemplated hereby evidence transactions which involve a substantial nexus with interstate commerce. Accordingly, any dispute, controversy or claim of any kind or nature which has arisen or may arise between the parties ... (including any dispute, controversy or claim relating to the validity of this arbitration clause), whether arising out of past, present or future dealings between the parties, 
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+... shall be governed by the Federal Arbitration Act and shall be settled by arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association, and judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.... Without limiting the generality of the foregoing, it is the intention of the parties to resolve by binding arbitration, as provided herein, all past, present, and future disputes, whether in tort, contract or otherwise, concerning or related to (i) the manufactured home, its sale, warranty, set up, repair, installation, manufacture, financing, insurance, its condition, (ii) the validity of this Agreement, and (iii) any other dealings, business or otherwise, between the parties.... The parties understand and agree that the arbitrator shall have all powers provided by law, and may award any legal or equitable relief, including, without limitation, money damages, declaratory relief and injunctive relief; provided, however, that the arbitrator will have no power to award punitive damages or other damages not measured by the prevailing party\rquote s actual damages. EACH OF THE PARTIES HERETO WAIVES ANY RIGHT TO A JURY TRIAL WITH RESPECT TO ANY CONTROVERSY BETWEEN THE PARTIES....\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+(Capitalization in original.)
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Thicklin says that Riverchase provided her with a written warranty and a homeowner\rquote s manual, but neither, she says, mentioned arbitration. On December 27, 1999, Thicklin sued Riverchase and Fantasy. She alleged that Riverchase had breached express and implied warranties; had violated the Magnuson\u8211\'3fMoss Warranty\u8211\'3fFederal Trade Commission Improvement Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS2301&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+15 U.S.C. \u167\'3f 2301 et seq.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (\u8220\'3fthe Magnuson\u8211\'3fMoss Act\u8221\'3f); had negligently or wantonly constructed the mobile home; had negligently or wantonly attempted to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_727_1}{\*\bkmkend co_pp_sp_735_727_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*727
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ repair the mobile home; and had defrauded her. She alleged that Fantasy had breached implied warranties; had violated the Magnuson\u8211\'3fMoss Act; had negligently or wantonly delivered and set up the mobile home; and had negligently or wantonly attempted to repair the mobile home. Riverchase and Fantasy then moved to compel arbitration, and Thicklin opposed those motions. Thicklin also amended her complaint to allege that Riverchase and Fantasy had conspired to deprive her of certain rights guaranteed her by the Magnuson\u8211\'3fMoss Act. After the trial court granted Riverchase and Fantasy\rquote s motions to compel arbitration and denied Thicklin\rquote s motion to alter, amend, or vacate its decision, Thicklin filed this petition for the writ of mandamus.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeeb143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeeb143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+II.
+\par 
+}
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F12002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B12002052444_1}{\*\bkmkend co_anchor_B12002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F22002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B22002052444_1}{\*\bkmkend co_anchor_B22002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F32002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B32002052444_1}{\*\bkmkend co_anchor_B32002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ \u8220\'3fA writ of mandamus is an extraordinary remedy that requires the showing of: (1) a clear legal right in the petitioner to the order sought; (2) an imperative duty on the respondent to perform, accompanied by a refusal to do so; (3) the lack of another adequate remedy; and (4) the properly invoked jurisdiction of the court.\u8221\'3f
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998181076&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_594&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_594" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+McNaughton,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 728 So.2d 592, 594 (Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+cert. denied,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999140844&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+528 U.S. 818, 120 S.Ct. 59, 145 L.Ed.2d 52 (1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. A petition for a writ of mandamus is the proper means by which to challenge a trial court\rquote s order granting a motion to compel arbitration.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00112002052444_ID0}{\*\bkmkend co_footnoteReference_B00112002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00112002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998226804&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Napier,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 723 So.2d 49 (Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. We review an order granting a motion to compel arbitration under an abuse-of-discretion standard. 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000587464&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Morris,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 782 So.2d 249 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeec143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeec143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+III.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F42002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B42002052444_1}{\*\bkmkend co_anchor_B42002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thicklin first argues that the Federal Arbitration Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+9 U.S.C. \u167\'3f 2
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (\u8220\'3fthe FAA\u8221\'3f), does not apply in this case because, she argues, her mobile-home purchase was not a transaction that affected interstate commerce.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000629462&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. McCray,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 788 So.2d 882 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, we rejected a similar argument. \u8220\'3fAn Alabama resident\rquote s purchase of a new mobile home\u8212\'3feven one manufactured in Alabama\u8212\'3fcan be a transaction that substantially affects interstate commerce, and the evidence indicates that the McCrays\rquote  purchase of their mobile home was such a transaction.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000629462&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_883&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_883" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+788 So.2d at 883
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (footnote omitted).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Riverchase and Fantasy presented evidence concerning the effect on interstate commerce of Thicklin\rquote s purchase of her mobile home. An affidavit provided by Fantasy\rquote s sales manager states, in pertinent part:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3f4. The mobile home purchased by Ms. Thicklin was manufactured by defendant Riverchase/Cavalier, an Alabama corporation. [Fantasy] purchases manufactured homes for resale from at least one foreign corporation that ships their products into Alabama from out-of-state locations. [Fantasy] frequently orders home decorations from a Georgia company to be shipped and delivered to [Fantasy\rquote s] location in Alabama.
+\par 
+}
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3f5. The mobile home purchased by Ms. Thicklin was financed by an entity located out-of-state, Bombadier Capital, whose lienholder address is in Cincinnati, Ohio. [Fantasy] sent Thicklin\rquote s finance paperwork to Bombadier Capital\rquote s Jacksonville, Florida office.\u8221\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+An affidavit provided by Riverchase\rquote s sales manager states, in pertinent part:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_728_1}{\*\bkmkend co_pp_sp_735_728_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*728
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ \u8220\'3fCavalier Manufacturing, Inc. is a Delaware corporation with its principal place of business in Winston County, Alabama. Riverchase Homes is a division of Cavalier Manufacturing, Inc. Riverchase Homes is a manufacturer of manufactured housing. Riverchase Homes does not sell homes directly to the retail customer. Riverchase Homes sells homes to retailers, who then sell the homes to the ultimate consumer.
+\par 
+}
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3fRiverchase Homes provides a limited warranty with each home. Those homes sold by Riverchase Homes are transported by independent common carrier. A copy of the warranty is transported with each home.
+\par 
+}
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3fRiverchase Homes manufactures homes in Marion County, Alabama. Riverchase Homes has suppliers around the country. Component parts of each home are transported by supplier via interstate commerce. Each home built by Riverchase Homes contains component parts transported by interstate commerce. In addition, appliances are supplied in each home. The appliances are purchased from manufacturers. Some, if not all, of these appliances are shipped to Riverchase Homes from other states.\u8221\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We conclude that the evidence in this case indicates that Thicklin\rquote s purchase of her mobile home was a transaction that substantially affected interstate commerce. Therefore, the FAA applies to this transaction.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeed143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeed143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+IV.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Thicklin next contends that the Magnuson\u8211\'3fMoss Act prohibits the enforcement of the arbitration clause and that this Court should overrule 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000370818&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Ard,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 772 So.2d 1131 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Thicklin also contends that, even if the Court refuses to overrule 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ard,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the arbitration clause in this case is unenforceable because Riverchase did not disclose the arbitration clause in its written warranty or in its consumer manual and because the arbitration clause imposes upon a plaintiff who is pursuing federal statutory claims the costs and expenses of the arbitration process.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ard,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ we held that the Magnuson\u8211\'3fMoss Act does not invalidate an arbitration provision contained in a warranty. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000370818&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1135&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1135" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+772 So.2d at 1135.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Since then, we have consistently applied 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ard,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and it is clearly the law of this State. See, e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Mfg., Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 823 So.2d 1237,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ opinion on return to remand, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1245&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1245" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+823 So.2d at 1245 (Ala.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001139706&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Palm Harbor Homes, Inc. v. Turner,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 796 So.2d 295 (Ala.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000629462&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_883&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_883" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+McCray,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 788 So.2d at 883\u8211\'3f84;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000392631&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Nalley,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 777 So.2d 99 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000392632&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Gregor,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 777 So.2d 79 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000392619&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Harold Allen\rquote s Mobile Home Factory Outlet, Inc. v. Early,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 776 So.2d 777 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000392630&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Davis,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 776 So.2d 770 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000463170&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Hennis,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 776 So.2d 105 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In all of those cases except 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the arbitration clause sought to be enforced was contained in the warranty. That is not so in this case. Here, the written warranty provided to Thicklin does not in any way refer to arbitration.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F52002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B52002052444_1}{\*\bkmkend co_anchor_B52002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thicklin\rquote s contention that the arbitration clause in her contract is unenforceable because Riverchase failed to disclose the arbitration clause in its written warranty or its consumer manual is compelling as to Thicklin\rquote s express-warranty and Magnuson\u8211\'3fMoss Act violation claims. The United States Court of Appeals for the Eleventh Circuit recently addressed this issue in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001486808&pubNum=506&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham v. Fleetwood Homes of Georgia, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 253 F.3d 611 (11th Cir.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ as here, the mobile-home manufacturer sought to enforce 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_729_1}{\*\bkmkend co_pp_sp_735_729_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*729
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ an arbitration clause that was included in a contract separate from a written warranty where the written warranty did not mention arbitration.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Judge Emmett R. Cox, writing for the Eleventh Circuit, first recognized, as has this Court, that the FAA applies to claims arising under the Magnuson\u8211\'3fMoss Act. 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Id.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court then summarized the requirements of the Magnuson\u8211\'3fMoss Act as to the disclosure of the terms and conditions of a written warranty. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS2302&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+15 U.S.C. \u167\'3f 2302(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The Court, after delineating 13 items suggested by the Magnuson\u8211\'3fMoss Act for inclusion in a written warranty, noted that Congress delegated to the Federal Trade Commission (\u8220\'3fFTC\u8221\'3f) the authority to promulgate specific disclosure requirements. The Court then referred to FTC requirements that warrantors include \u8220\'3f[a] statement of what the warrantor will do in the event of a defect, malfunction or failure to conform with the written warranty....\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000547&cite=16CFRS701.3&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_28cc0000ccca6" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+16 C.F.R. \u167\'3f 701.3(a)(3)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; \u8220\'3f[a] step-by-step explanation of the procedure which the consumer should follow in order to obtain performance of any warranty obligation ....\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000547&cite=16CFRS701.3&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_488b0000d05e2" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u167\'3f 701.3(a)(5)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; and \u8220\'3f[i]nformation respecting the availability of any informal dispute settlement mechanism ....\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000547&cite=16CFRS701.3&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_1496000051ed7" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u167\'3f 701.3(a)(6)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. This last requirement is echoed in \u167\'3f 703.2, which requires the warrantor to disclose \u8220\'3fclearly and conspicuously at least the following information on the face of the written warranty: ... [a] statement of the availability of the informal dispute settlement mechanism.\u8221\'3f \u167\'3f 703.2(b)(1).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Eleventh Circuit observed that the comprehensive disclosure requirements of the Magnuson\u8211\'3fMoss Act are \u8220\'3fan integral, if not the central, feature of the act, perhaps eclipsing even the civil action and informal dispute resolution mechanisms in their importance to consumers.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001486808&pubNum=506&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_506_621&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_506_621" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 253 F.3d at 621.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Eleventh Circuit then held:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fOur preceding analysis commands the conclusion that Fleetwood\rquote s use of its third-party beneficiary status under the Ronnie Smith\rquote s Cunningham agreement to compel arbitration where Fleetwood has failed to disclose in the warranty a term or clause requiring the Cunninghams to utilize an informal dispute resolution mechanism contravenes the text, legislative history, and purpose of the Magnuson\u8211\'3fMoss Warranty Act. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Fleetwood contends that neither Magnuson\u8211\'3fMoss nor the rules promulgated by the FTC pursuant to Magnuson\u8211\'3fMoss apply to agreements that are not incorporated into the terms of the written warranty, like the arbitration agreement here. Whether Fleetwood is correct in this contention or not, Magnuson\u8211\'3fMoss and the rules do apply to the content of written warranties, including omissions, and Fleetwood can not \u8216\'3fdo by [the] surrogate or vicarious means\rquote  of the Ronnie Smith\rquote s Cunningham arbitration agreement what Magnuson\u8211\'3fMoss requires that it do directly: disclose in a single document all relevant terms of the warranty. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1997049848&pubNum=345&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_345_1539&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1539" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Wilson v. Waverlee Homes, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 954 F.Supp. 1530, 1539 (M.D.Ala.1997)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+[, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+affirmed,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=506&cite=127FE3D40&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+127 F.3d 40 (11th Cir.1997)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+]. Compelling arbitration on the basis of an arbitration agreement that is not referenced in the warranty presents an inherent conflict with the Act\rquote s purpose of providing clear and concise warranties to consumers.\u8221\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001486808&pubNum=506&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_506_622&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_506_622" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+253 F.3d at 622
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+After buttressing its holding with precedent from the United States Supreme Court dealing with the arbitrability of claims brought under the Securities Act of 1933 and the Securities Exchange Act of 1934, both of which also contain mandatory 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_730_1}{\*\bkmkend co_pp_sp_735_730_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*730
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ disclosure requirements, the Eleventh Circuit concluded:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fAllowing Fleetwood to condition the warranty by invoking an arbitration agreement executed by the buyer and seller confounds this purpose in that consumers confronted with warranties that do not contain arbitration clauses that are nonetheless subject to arbitration will have no basis for judging the suitability of a warranty. 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+This is of particular concern because the warranty is issued unilaterally, and, as the enactors of Magnuson\u8211\'3fMoss noted, a consumer cannot bargain with manufacturers to adjust the terms of a warranty offered voluntarily by the manufacturer: \u8216\'3f[t]he warranty provisions of [Magnuson\u8211\'3fMoss] are not only designed to make warranties understandable to consumers, but to redress the ill effects resulting from the imbalance which presently exists in the relative bargaining power of consumers and suppliers of consumer products.\u8217\'3f [
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0306839977&pubNum=1037&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=FR&fi=co_pp_sp_1037_60&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_1037_60" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+40 Fed.Reg.] at 60, 168
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+ (quoting S. REP. NO. 93\u8211\'3f151 (1973)). The unilateral nature of warranties by manufacturers makes full disclosure in a single document mandatory for the attainment of Congress\rquote s goals.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001486808&pubNum=506&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_506_623&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_506_623" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+253 F.3d at 623
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ (emphasis added).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The only difference between the case before us and 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is that in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the manufacturer attempted to compel arbitration on the basis of its third-party-beneficiary status under a contract between the mobile-home seller and purchaser. Here, Riverchase seeks to compel arbitration on the basis of a contract to which it, along with Fantasy and Thicklin, is a party. That difference, however, is not material. In both cases, the manufacturer has sought to compel arbitration of the purchaser\rquote s breach-of-express-warranty claim against it where the warranty contains no reference to arbitration. We find the reasoning of the Eleventh Circuit persuasive, and we conclude that Riverchase\rquote s failure to disclose in the warranty the requirement that Thicklin arbitrate her claims against it violates the disclosure requirements of the Magnuson\u8211\'3fMoss Act. Therefore, the trial court abused its discretion in compelling Thicklin to arbitrate her express-warranty claim and her claims alleging Magnuson\u8211\'3fMoss Act violations.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00222002052444_ID0}{\*\bkmkend co_footnoteReference_B00222002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00222002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+2
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On rehearing, Riverchase argues that our embracing 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ conflicts with 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Manufacturing, Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ supra.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ To the extent that 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Jackson
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is inconsistent with our holding in this case as to those matters also in issue in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ it is expressly overruled.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Because we conclude that Riverchase and Fantasy may not compel Thicklin to arbitrate her express-warranty claim and her claims alleging a Magnuson\u8211\'3fMoss Act violation, we need not address her contention that the arbitration clause is unenforceable because it imposes upon a plaintiff who is pursuing federal statutory claims the costs and expenses of arbitration.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeee143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeee143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+V.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F62002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[6]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B62002052444_1}{\*\bkmkend co_anchor_B62002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thicklin also contends that the arbitration clause is unconscionable because, she says, it does not allow relief equivalent to that allowed by law because it eliminates any opportunity for her to recover punitive damages. A contract defense generally applicable under state law, such as unconscionability, may be applied to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_731_1}{\*\bkmkend co_pp_sp_735_731_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*731
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ invalidate all or a portion of an arbitration agreement without contravening the FAA. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1995030814&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Allied\u8211\'3fBruce Terminix Cos. v. Dobson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 513 U.S. 265, 115 S.Ct. 834, 130 L.Ed.2d 753 (1995)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+9 U.S.C. \u167\'3f 2
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (\u8220\'3fA written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+save upon such grounds as exist at law or in equity for the revocation of any contract.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8221\'3f (emphasis added)); and 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999218433&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_869&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_869" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Perry,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 744 So.2d 859, 869 (Ala.1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Lyons, J., dissenting).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F72002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[7]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B72002052444_1}{\*\bkmkend co_anchor_B72002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F82002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[8]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B82002052444_1}{\*\bkmkend co_anchor_B82002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999196477&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_520&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_520" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Foster,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 758 So.2d 516, 520 n. 4 (Ala.1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (quoting 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0294160336&pubNum=0161983&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=TS&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+8 Richard A. Lord, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Williston on Contracts
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u167\'3f 18:10 (4th ed.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+), this Court noted that contract law generally recognizes a distinction between procedural unconscionability and substantive unconscionability. Procedural unconscionability deals with \u8220\'3fprocedural deficiencies in the contract formation process, such as deception or a refusal to bargain over contract terms, today often analyzed in terms of whether the imposed-upon party had meaningful choice about whether and how to enter into the transaction.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999196477&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_520&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_520" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+758 So.2d at 520 n. 4.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Substantive unconscionability
+\par 
+}
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3f
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+relates to the substantive contract terms themselves and whether those terms
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are unreasonably favorable to the more powerful party, such as terms that impair the integrity of the bargaining process or 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+otherwise contravene the public interest or public policy; terms (usually of an adhesion or boilerplate nature) that attempt to alter in an impermissible manner fundamental duties otherwise imposed by the law,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+ fine-print terms or provisions that seek to negate the reasonable expectations of the nondrafting party, or unreasonably and unexpectedly harsh terms having to do with price or other central aspects of the transaction.\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Id.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ (emphasis added).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F92002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[9]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B92002052444_1}{\*\bkmkend co_anchor_B92002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Whether a provision in a contract immunizing a party from liability for punitive damages is substantively unconscionable as violating public policy in that it \u8220\'3fattempt[s] to alter in an impermissible manner fundamental duties otherwise imposed by the law\u8221\'3f
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00332002052444_ID0}{\*\bkmkend co_footnoteReference_B00332002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00332002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ appears to be a question of first impression in Alabama. However, the absence of precedential authority does not prevent this Court from recognizing unconscionability as a defense to the enforcement of such a provision in an arbitration agreement so long as any such newly announced rule condemning a provision immunizing a party from liability for punitive damages applies to all contracts, regardless of the contemplated method of dispute resolution.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In other words, such a provision would have to be unenforceable, regardless of whether the parties contemplated the resolution of disputes by arbitration or through judicial proceedings. To hold otherwise would run afoul of the rule stated in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996118397&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Doctor\rquote s Associates, Inc. v. Casarotto,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 517 U.S. 681, 116 S.Ct. 1652, 134 L.Ed.2d 902 (1996)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, in which the United States Supreme Court held that the FAA preempted a Montana statute that conditioned the enforceability of an arbitration clause on compliance with special notice requirements not applicable to other contracts.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+We have found no law from any other 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_732_1}{\*\bkmkend co_pp_sp_735_732_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*732
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ state addressing this precise issue.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00442002052444_ID0}{\*\bkmkend co_footnoteReference_B00442002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00442002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The absence of precedent addressing the enforceability of a contractual provision that immunizes a party from liability for punitive damages in judicial proceedings may well be explained by the negative effect negotiating such a contractual provision might have upon a potential purchaser. Only recently, in the wake of the federally mandated hospitality to arbitration, has the pervasive presence of arbitration agreements in consumer-sales contracts required courts to examine the validity of contractual provisions not heretofore usually seen in the marketplace.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F102002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[10]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B102002052444_1}{\*\bkmkend co_anchor_B102002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F112002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[11]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B112002052444_1}{\*\bkmkend co_anchor_B112002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This Court has limited authority to deal with the enforceability of contract terms. It can nullify or reform a contract on the basis of fraud; it can also nullify or reform a contract to eliminate any unconscionable provisions or terms that violate public policy.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00552002052444_ID0}{\*\bkmkend co_footnoteReference_B00552002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00552002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ As previously noted, a contract provision that violates public policy can be subsumed under the theory of substantive unconscionability. See 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte Foster.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ However, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000002&cite=ALCNARTIIIS43&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u167\'3f 43 of the Constitution of Alabama of 1901
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ mandates the separation of judicial power from legislative power and condemns the usurpation of the power of one branch of government by the other. The authority to declare public policy is reserved to the Legislature, subject to limits imposed by the Constitution. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1964131887&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_302&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_302" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Rogers v. City of Mobile,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 277 Ala. 261, 281, 169 So.2d 282, 302 (1964)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. We must therefore weigh the claim that a contractual provision immunizing a party from liability for punitive damages is unconscionable in light of the public policy of this State as expressed by the Legislature or by its people in the Constitution.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The public policy of this State, as articulated by the Legislature at 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000002&cite=ALSTS6-11-20&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u167\'3f 6\u8211\'3f11\u8211\'3f20, Ala.Code 1975
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, recognizes that certain circumstances\u8212\'3fnamely, gross, oppressive, or malicious fraudulent acts committed intentionally; malicious wrongful acts with an intent to injure or acts committed under circumstances to which the law will imply an evil intent; and conduct carried on with a reckless or conscious disregard of the rights or safety of others\u8212\'3fwarrant the recovery of punitive damages. The Criminal Code is replete with statutes that impose fines and imprisonment in an effort to inhibit the commission of intentional or reckless acts. We therefore have strong legislative expressions of public policy calculated to deter citizens from engaging in intentional or wanton acts that endanger others or that otherwise do harm. It should come as no surprise that this Court from time to time has held contractual provisions dealing with the consequences of conduct that might give rise to the recovery of punitive damages to violate the public policy of this State.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+For example, in 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_733_1}{\*\bkmkend co_pp_sp_735_733_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*733
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989102493&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Barnes v. Birmingham International Raceway, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 551 So.2d 929 (Ala.1989)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, this Court first noted the definition of willfulness and wantonness in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987049494&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Lynn Strickland Sales & Service, Inc. v. Aero\u8211\'3fLane Fabricators, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 510 So.2d 142 (Ala.1987)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00662002052444_ID0}{\*\bkmkend co_footnoteReference_B00662002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00662002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and concluded that a pre-race release at a motor speedway exculpating a person from liability for wanton conduct was invalid and against public policy. In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990055918&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Reece v. Finch,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 562 So.2d 195 (Ala.1990)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, this Court, citing 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Barnes,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ declined to enforce a release signed by a physician purporting to hold a prospective malpractice insurer harmless from any and all liability with respect to prospective intentional torts. See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1933109204&pubNum=734&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Fidelity\u8211\'3fPhenix Fire Ins. Co. v. Murphy,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 226 Ala. 226, 146 So. 387 (1933)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00772002052444_ID0}{\*\bkmkend co_footnoteReference_B00772002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00772002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+7
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ which held:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3fThere can be no valid insurance coverage which will protect or indemnify the insured or indemnitee against a loss which he may purposely and willfully create, or which may arise from his immoral, fraudulent, or felonious conduct. Such an express contract of insurance or indemnity is void as against public policy.\u8221\'3f
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This Court recognized a contractual provision depriving an arbitrator of authority to award damages in excess of five times the amount of economic damages, among other factors, as indicia of unconscionability of the entire agreement to arbitrate in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000655358&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+American General Finance, Inc. v. Branch,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 793 So.2d 738 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F122002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[12]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B122002052444_1}{\*\bkmkend co_anchor_B122002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F132002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[13]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B132002052444_1}{\*\bkmkend co_anchor_B132002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It is equally sound to conclude that it violates public policy for a party to contract away its liability for punitive damages, regardless whether the provision doing so was intended to operate in an arbitral or a judicial forum. Thus, enforcement of this portion of the arbitration agreement violates public policy, and its enforcement would be unconscionable. See also this Court\rquote s opinion on return to remand in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Manufacturing, Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ supra, in which Justice Houston, writing for the Court, stated:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fIf parties to an arbitration agreement waive an arbitrator\rquote s ability to award punitive damages, the door will open wide to rampant fraudulent conduct with few, if any, legal repercussions. The Legislature intended that punitive damages be available as a remedy in fraud actions, as evidenced by the enactment of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000002&cite=ALSTS6-11-20&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u167\'3f 6\u8211\'3f11\u8211\'3f20(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The Legislature is endowed with the exclusive domain to formulate public policy in Alabama, a domain upon which the judiciary shall not trod. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999178714&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1137&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1137" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+American Bankers Ins. Co. of Florida v. Crawford,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 757 So.2d [1125,] 1137
+}}}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+ [ (Ala.1999) ]. Thus, we conclude that it is not within the province of parties to a predispute arbitration agreement to waive a punitive-damages award.\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1248&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1248" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+823 So.2d at 1248
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F142002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[14]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B142002052444_1}{\*\bkmkend co_anchor_B142002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We now must decide whether the presence of the provision limiting the arbitrator\rquote s authority to award punitive damages invalidates the entire arbitration provision or only the offensive portion. In 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_734_1}{\*\bkmkend co_pp_sp_735_734_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*734
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Manufacturing, Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ supra, we recently examined a similar arbitration clause.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00882002052444_ID0}{\*\bkmkend co_footnoteReference_B00882002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00882002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The contract in this case, like the contract in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ contains a severability clause. That clause provides:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3f8. If any provision of this Agreement is found to be unenforceable (including, without limitation, any provision of Section 10 hereof), such provision shall be considered severed from the remaining provisions of this Agreement (including, without limitation, the remaining provisions of Section 10 hereof), and such remaining provisions shall be and remain in full force and effect.\u8221\'3f
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In our opinion on remand in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ we struck only that portion of the arbitration clause that prohibited the arbitrator from awarding punitive damages. We conclude that the portion of the arbitration clause in Thicklin\rquote s contract that prohibits the arbitrator from awarding punitive damages is void, and we strike only that portion of the clause.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeef143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeef143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+VI.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Finally, Thicklin contends that the arbitration clause is unenforceable because, she says, it failed to comply with the Consumer Due Process Protocol of the American Arbitration Association (\u8220\'3fAAA\u8221\'3f). The arbitration clause in Thicklin\rquote s contract provides that arbitration proceedings are to be governed by the Commercial Rules of the AAA. In May 1998, the AAA published 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+A Due Process Protocol for Mediation and Arbitration of Consumer Disputes
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in an effort to establish standards of fairness for the arbitration of consumer disputes. The AAA also adopted 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Arbitration Rules for the Resolution of Consumer\u8211\'3fRelated Disputes,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ which became effective July 1, 1999. Those rules considerably lowered the costs of arbitration to consumers.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Thicklin\rquote s principal argument is that by requiring her to proceed under the AAA\rquote s Commercial Rules, rather than its Consumer Rules, the arbitration clause in her contract violates the remedial purposes of the Magnuson\u8211\'3fMoss Act. Under the Commercial Rules, she argues, the consumer is required to pay numerous filing fees, hearing fees, and other expenses, despite the requirement in the regulations governing Magnuson\u8211\'3fMoss Act claims that consumers are not to be charged for using the dispute-resolution mechanism provided by the warrantor. Thicklin says that the Consumer Rules and the Due Process Protocol establish standards for arbitration proceedings involving consumers, and, she says, those standards are similar to the standards contained in the Magnuson\u8211\'3fMoss Act.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Thicklin raises an interesting question\u8212\'3fone which we no doubt will see in a future case. We need not decide that question here, however, because we have held that Riverchase\rquote s failure to mention the arbitration procedure in its written warranty precludes it from being able to compel Thicklin 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_735_1}{\*\bkmkend co_pp_sp_735_735_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*735
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to arbitrate her express-warranty and Magnuson\u8211\'3fMoss Act claims against Riverchase and Fantasy. The Magnuson\u8211\'3fMoss Act standards and regulations will, therefore, govern those claims, not the Commercial Rules of the AAA.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F152002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+[15]
+}}}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_B152002052444_1}{\*\bkmkend co_anchor_B152002052444_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We recognize that certain of Thicklin\rquote s claims remain arbitrable and that pursuant to her contract the AAA\rquote s Commercial Rules will govern those claims. Thicklin points to several examples in support of her argument that the arbitration clause is unconscionable, and, therefore, unenforceable, because, she says, it fails to satisfy minimum standards of procedural fairness for consumer transactions. The filing fee under the Commercial Rules, she says, is approximately $2,000, while filing a lawsuit costs approximately $200. Furthermore, she says, the arbitration clause in her contract does not disclose any of the basic information regarding the arbitration process required by the Due Process Protocol. However, Thicklin does not provide any evidence, such as her income, her family\rquote s expenses, or the estimated costs of the arbitration procedure, that would support an argument that the use of the Commercial Rules renders the arbitration clause unconscionable from a financial standpoint. The United States Supreme Court has said that \u8220\'3f[t]he \u8216\'3frisk\u8217\'3f that [the plaintiff] will be saddled with prohibitive costs is too speculative to justify the invalidation of an arbitration agreement.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000639653&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Green Tree Financial Corp.\u8212\'3fAlabama v. Randolph,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 531 U.S. 79, 91, 121 S.Ct. 513, 148 L.Ed.2d 373 (2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. That risk here is also too speculative to justify a conclusion that requiring Thicklin to arbitrate the remainder of her claims (i.e., all claims other than her express-warranty and Magnuson\u8211\'3fMoss Act violation claims) would be unconscionable.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ See also 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Palm Harbor Homes, Inc. v. Turner,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ supra.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeef0143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeef0143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb400 \fs20 \cf1 \i0 
+VII.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+We conclude that the trial court abused its discretion in granting the defendants\rquote  motions to compel arbitration as to Thicklin\rquote s express-warranty claim and her Magnuson\u8211\'3fMoss Act violation claims. As to those claims, Thicklin\rquote s petition for the writ of mandamus is due to be granted. We further conclude that the provision in the arbitration clause prohibiting the arbitrator from awarding punitive damages is void, and we also grant Thicklin\rquote s petition to the extent that we sever that provision from the arbitration clause. Finally, we conclude that the trial court did not abuse its discretion in granting the defendants\rquote  motions to compel the arbitration of the remainder of Thicklin\rquote s claims. As to those claims, Thicklin has not shown a clear legal right to the order she seeks, and we deny her petition as to them.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+APPLICATIONS OVERRULED; OPINION OF OCTOBER 12, 2001, WITHDRAWN; OPINION SUBSTITUTED; PETITION GRANTED IN PART AND DENIED IN PART; WRIT ISSUED.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0470283101&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+BROWN
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+, JOHNSTONE, WOODALL, and STUART, JJ., concur.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+HOUSTON and HARWOOD, JJ., concur specially.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+SEE, J., concurs in part and dissents in part.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+MOORE, C.J., concurs in the result in part and dissents in part.
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_concurrance_opinion_1}{\*\bkmkend co_concurrance_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb400 \fs20 \cf1 \i0 
+HOUSTON, Justice (concurring specially).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeef6143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeef6143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The United States Court of Appeals for the Eleventh Circuit released its opinion in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001486808&pubNum=506&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham v. Fleetwood Homes of Georgia, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 253 F.3d 611 (11th Cir.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, on June 6, 2001, after this Court 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_736_1}{\*\bkmkend co_pp_sp_735_736_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*736
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ released its opinion on original submission in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Manufacturing, Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 823 So.2d 1237 (Ala.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Therefore, this Court did not have the benefit of the Eleventh Circuit\rquote s opinion in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ when 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ was decided. When it comes to predispute arbitration under the Federal Arbitration Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+9 U.S.C. \u167\'3f 2
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (which I personally do not believe Congress intended to apply in State Courts, see my special writing in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998137618&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_38&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_38" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Dan Tucker Auto Sales, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 718 So.2d 33, 38 (Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Houston, J., concurring specially)), I follow 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+not only
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the direction of the United States Supreme Court, which I am required to do under the Supremacy Clause of the Constitution of the United States, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+but also
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the direction of the United States District Courts and Courts of Appeals, although the Supremacy Clause does not require that I do so. See my special writing in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999029543&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1003&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1003" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Southern Energy Homes, Inc. v. Lee,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 732 So.2d 994, 1003\u8211\'3f04 (Ala.1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Houston, J., concurring specially):
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fThe United States Supreme Court has not specifically addressed the issues presented in this present case. However, the United States District Court for the Middle District of Alabama has. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998113140&pubNum=4637&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Rhode v. E & T Investments, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 6 F.Supp.2d 1322 (M.D.Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1997049848&pubNum=345&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Wilson v. Waverlee Homes, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 954 F.Supp. 1530 (M.D.Ala.1997)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, affirmed, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=506&cite=127FE3D40&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+127 F.3d 40 (11th Cir.1997)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (table); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1997204162&pubNum=345&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Boyd v. Homes of Legend, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 981 F.Supp. 1423 (M.D.Ala.1997)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. It is also significant to me that the United States Court of Appeals for the Eleventh Circuit affirmed the district court\rquote s judgment in 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Wilson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+ albeit without an opinion. Although I am not bound to follow the decisions of the federal courts that decided those cases, I nonetheless find the reasoning of the district court to be sound, at least on its face. Because of the strong public policy in this state against the specific enforcement of pre-dispute arbitration agreements, I will not go behind the reasonable decisions of these federal courts interpreting a federal statute as barring the specific enforcement of such agreements.\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Therefore, I concur in overruling 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Jackson
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to the extent that it is inconsistent with 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cunningham;
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in doing so, I compare myself with the \u8220\'3fbarrister\u8221\'3f in the quote from Christopher Sinclair Stevenson\rquote s 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+When in France,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ p. 166 (1989): \u8220\'3fThere is nothing like a new precedent to cause a barrister to leap with joy like a springtime lamb.\u8221\'3f
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+HARWOOD, Justice (concurring specially).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeefa143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeefa143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I concur fully in the main opinion, and I write specially only to express my view that much of the information contained in the affidavit excerpts quoted in Part III of the opinion would not be relevant to the analysis of whether this particular transaction had the requisite \u8220\'3fsubstantial\u8221\'3f effect on interstate commerce. For example, the statement in the affidavit provided by Fantasy\rquote s sales manager that it \u8220\'3fpurchases manufactured homes for resale from at least one foreign corporation that ships their products into Alabama from out-of-state locations\u8221\'3f could have no relevance to the Thicklin transaction, because the mobile home Thicklin purchased never left Alabama at any point in time from its manufacture to its delivery to Thicklin. Likewise, the statement in that affidavit that Fantasy \u8220\'3ffrequently orders home decorations from a Georgia company to be shipped and delivered to [Fantasy\rquote s] location in Alabama\u8221\'3f does not establish that any such home decorations were used in Thicklin\rquote s mobile home.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Our observation in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000071455&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_767&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_767" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Sisters of the Visitation v. Cochran Plastering Co.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 775 So.2d 759, 767 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, remains well taken:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_737_1}{\*\bkmkend co_pp_sp_735_737_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*737
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8220\'3f[W]e should not hold that the proximity of this particular contract to contracts substantially affecting interstate commerce is determinative, lest we err by expanding the Commerce Clause to the point of \u8216\'3feffectually obliterat [ing] the distinction between what is national and what is local.\u8217\'3f [
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1937123003&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+NLRB v.] Jones & Laughlin Steel,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 301 U.S. [1] at 37, 57 S.Ct. 615[, 81 L.Ed. 893 (1937)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+].\u8221\'3f
+\par 
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_cipdip_opinion_1}{\*\bkmkend co_cipdip_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb400 \fs20 \cf1 \i0 
+SEE, Justice (concurring in part and dissenting in part).
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deeeff143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deeeff143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I concur with the holding in the majority opinion that this transaction has a sufficient nexus with interstate commerce to invoke the Federal Arbitration Act (\u8220\'3fFAA\u8221\'3f). I must dissent, however, from the holding in Part V of the majority opinion that clauses in arbitration agreements waiving the award of punitive damages by an arbitrator are unconscionable as against public policy.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This Court established in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999223284&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Green Tree Financial Corp. v. Vintson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 753 So.2d 497 (Ala.1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, that the unconscionability of an arbitration clause is a question of law for the court and that the party claiming that such a clause is unconscionable bears the burden of proof. This Court has also held that \u8220\'3fagreements to arbitrate are not in themselves unconscionable.\u8221\'3f 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998181076&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_598&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_598" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+McNaughton,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 728 So.2d 592, 598 (Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Moreover, fundamental concepts of contract law require courts to uphold contracts when possible.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00992002052444_ID0}{\*\bkmkend co_footnoteReference_B00992002052444_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00992002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+9
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989019886&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Wilson v. World Omni Leasing, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 540 So.2d 713 (Ala.1989)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, this Court stated:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3fComment (1) of the official comments to \u167\'3f 7\u8211\'3f2\u8211\'3f302 sets out the basic test to determine unconscionability:
+\par 
+}
+}
+}
+{\li400 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li400 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3f \u8216\'3f[W]hether, in the light of the general commercial background and the commercial needs of the particular trade or case, the clauses involved are so one-sided as to be unconscionable under the circumstances existing at the time of the making of the contract.... The principle is one of the prevention of oppression and unfair surprise ... and not of disturbance of allocation of risks because of superior bargaining power.\u8217\'3f \u8221\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989019886&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_716&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_716" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+540 So.2d at 716
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B010102002052444_ID}{\*\bkmkend co_footnoteReference_B010102002052444_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B010102002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+10
+}}}
+\sb200 
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998226804&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Napier,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 723 So.2d 49 (Ala.1998)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, this Court noted:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li1000 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3f[M]atters that could be germane to a determination of unconscionability [include] a refusal of [the plaintiff\rquote s] request for assistance after she had notified someone that she was unable to see 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_738_1}{\*\bkmkend co_pp_sp_735_738_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*738
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb250 \fs20 \cf1 \i0 
+ or to understand [the arbitration clause]; [the plaintiff\rquote s] inability to obtain the product made the basis of this action from this seller, or from another source, without having to sign an arbitration clause; the oppressiveness or unfairness of the mechanism of arbitration; or the [unfairness] of a discount or other quid pro quo in exchange for [the plaintiff\rquote s] accepting an arbitration agreement.\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998226804&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_52&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_52" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+723 So.2d at 52
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ (footnote omitted).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The waiver of punitive damages in this case is not unconscionable, because the record reveals no evidence of oppressive dealing, no evidence of an unfair inducement for Thicklin to enter the arbitration agreement in which she waived her claim to punitive damages, and no attempt by Fantasy to surprise or to mislead Thicklin. The heading of the arbitration section of the agreement (section 10) appeared in bold type, entitled \u8220\'3fARBITRATION AND WAIVER OF JURY TRIAL.\u8221\'3f Thicklin also initialed a separate acknowledgment that provided: \u8220\'3fI have read and understand Section 10 which relates to arbitration and waiver of jury trial.\u8221\'3f
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Thicklin does not claim that she was not aware of the arbitration agreement she signed or that she was tricked into signing it. Instead, Thicklin argues that the arbitration agreement she signed should not be enforceable against her because, she argues, it is unconscionable to allow parties to waive certain rights. The majority opinion accepts the substance of this argument, stating that an agreement to waive punitive damages \u8220\'3f \u8216\'3fattempt[s] to alter in an impermissible manner fundamental duties otherwise imposed by the law,\u8217\'3f \u8221\'3f 824 So.2d at 731 (quoting 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999196477&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_520&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_520" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Foster,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 758 So.2d 516, 520 n. 4 (Ala.1999)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+). For the reasons I stated in my dissent from the opinion on return to remand in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1245&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1245" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Cavalier Manufacturing, Inc. v. Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 823 So.2d 1237, 1245 (Ala.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, I dissent from the majority\rquote s reliance on 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1995030814&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Allied\u8211\'3fBruce Terminix Cos. v. Dobson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 513 U.S. 265, 115 S.Ct. 834, 130 L.Ed.2d 753 (1995)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000036915&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+State Farm Fire & Casualty Co.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 764 So.2d 543 (Ala.2000)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, as authority under state law to excise such a clause from a contract.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B011112002052444_ID}{\*\bkmkend co_footnoteReference_B011112002052444_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B011112002052444_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf1 \i0 
+11
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Because I conclude that, by contract, Thicklin freely and knowingly waived her right to punitive damages, I conclude that the waiver of punitive damages was not unconscionable. I, therefore, respectfully dissent as to Part V.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_concurrance_opinion_0_1}{\*\bkmkend co_concurrance_opinion_0_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb400 \fs20 \cf1 \i0 
+MOORE, Chief Justice (concurring in the result in part and dissenting in part).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I30deef04143711e498db8b09b4f04}{\*\bkmkend co_anchor_I30deef04143711e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I would grant Sharon Thicklin\rquote s application for rehearing because, for the reasons I articulated in my dissent in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001668887&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_676&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_676" }{\fldrslt 
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Selma Medical Center, Inc. v. Fontenot,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 824 So.2d 668, 676 (Ala.2001)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, I do not believe her claims in this case are subject to arbitration. I therefore dissent from the majority\rquote s decision to overrule Thicklin\rquote s application.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_735_739_1}{\*\bkmkend co_pp_sp_735_739_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*739
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ For the same reasons that I dissent from the majority\rquote s denial of Thicklin\rquote s application for rehearing, I concur in the result as to its decision to overrule the defendants\rquote  applications for rehearing. Specifically, I concur with the holdings in the majority opinion (1) that arbitration should not be compelled as to Thicklin\rquote s express-warranty claim and her Magnuson\u8211\'3fMoss Act claims, and (2) that the provision in the arbitration agreement prohibiting an award of punitive damages is void.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb600 \fs20 \cf20 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+824 So.2d 723, 2002-1 Trade Cases P 73,576
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \ltrrow \trleft0 
+\clpadl200 \clpadfl3 \clbrdrt \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Footnotes
+\par 
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00112002052444_1}{\*\bkmkend co_footnote_B00112002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00112002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+But see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1006346&cite=ALRRAPR4&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Rule 4(d), Ala. R.App. P
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+., as amended May 10, 2001, effective October 1, 2001. By that amendment, an order either granting or denying a motion to compel arbitration will be reviewed by appeal.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00222002052444_1}{\*\bkmkend co_footnote_B00222002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00222002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+On rehearing, Fantasy argues that Thicklin\rquote s implied-warranty claims against it are subject to arbitration. We agree. Thicklin\rquote s claims arising under the Magnuson\u8211\'3fMoss Act, however, whether for violations of the Act or for breach of an express warranty, are not subject to arbitration.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00332002052444_1}{\*\bkmkend co_footnote_B00332002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00332002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999196477&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_520&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_520" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Foster,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 758 So.2d at 520, n. 4
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00442002052444_1}{\*\bkmkend co_footnote_B00442002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00442002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1995058671&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Mastrobuono v. Shearson Lehman Hutton, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 514 U.S. 52, 115 S.Ct. 1212, 131 L.Ed.2d 76 (1995)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, the Supreme Court held that a New York choice-of-law provision (New York law prohibited the award of punitive damages by an arbitrator) in a standard-form contract did not bar the arbitral award of punitive damages. In stating the contentions of the parties, the Court described one of the arguments of the party seeking to block the award of punitive damages; that party contended that a provision in an arbitration agreement prohibiting the recovery of punitive damages must be enforced, even if it limited arbitration. This portion of the opinion describing a party\rquote s contention is not even 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+dictum.
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ The Court did not have any such provision before it; consequently, the Court did not discuss the effect of any state contract laws condemning such a provision.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00552002052444_1}{\*\bkmkend co_footnote_B00552002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00552002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Ex parte 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2000036915&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_546&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_546" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+State Farm Fire & Cas. Co.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 764 So.2d 543, 546 (Ala.2000)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (Lyons, J., concurring specially).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00662002052444_1}{\*\bkmkend co_footnote_B00662002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00662002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998188617&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1252&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1252" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Alfa Mutual Insurance Co. v. Roush,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 723 So.2d 1250, 1252 (Ala.1998)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, the definition of wantonness in 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Lynn Strickland
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ was modified to eliminate any requirement of a specific intent to injure. The definition of wantonness in 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Roush
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ is expressed in terms of the statutory definition of wantonness, that is, \u8220\'3f[c]onduct which is carried on with a reckless or conscious disregard of the rights or safety of others.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000002&cite=ALSTS6-11-20&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_d801000002763" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Ala.Code 1975, \u167\'3f 6\u8211\'3f11\u8211\'3f20(b)(3)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. Wantonness is also defined as \u8220\'3fthe conscious doing of some act or the omission of some duty, while knowing of the existing conditions and being conscious that, from doing or omitting to do an act, injury will likely or probably result.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998188617&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1256&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1256" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+723 So.2d at 1256
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00772002052444_1}{\*\bkmkend co_footnote_B00772002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00772002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Murphy
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ was narrowed in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996151254&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Titan Indemnity Co. v. Riley,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 679 So.2d 701 (Ala.1996)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, to apply to those cases where the insurance proceeds were payable to the insured, and not to a third party.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00882002052444_1}{\*\bkmkend co_footnote_B00882002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00882002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In our original opinion in 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ we remanded the case for the trial court to determine the validity of the arbitration clause that prohibited the arbitrator from awarding punitive damages. The trial court determined that the clause was invalid, and this Court, on return to remand, examined that aspect of the arbitration clause and agreed with the trial court that such a clause is contrary to this State\rquote s public policy. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001307341&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1245&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1245" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Jackson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 823 So.2d at 1245
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (opinion on return to remand). In this case, the trial court held in its order denying Thicklin\rquote s Rule 59 motion that the parties agreed to disallow punitive damages and that it was \u8220\'3fbound to interpret this provision of the contract \u8216\'3fin accordance with the expressed intentions of the parties,\u8217\'3f \u8221\'3f citing 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1995058671&pubNum=708&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Mastrobuono v. Shearson Lehman Hutton, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 514 U.S. 52, 115 S.Ct. 1212, 131 L.Ed.2d 76 (1995)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. The trial court here has already ruled on the validity of the punitive-damages aspect of the arbitration clause.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00992002052444_1}{\*\bkmkend co_footnote_B00992002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00992002052444_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+This Court, in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989019886&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_716&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_716" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Wilson v. World Omni Leasing, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 540 So.2d 713, 716 (Ala.1989)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, stated:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li360 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3fWith a choice between a valid and an invalid construction, the court has a duty to accept the construction that will uphold, rather than destroy, the validity of the contract.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1974106120&pubNum=345&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+West Point\u8211\'3fPepperell, Inc. v. Bradshaw,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 377 F.Supp. 154 (M.D.Ala.1974)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li540 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3f \u8216\'3fIt is fundamental, of course, that parties may contract as they see fit so long as they do not offend some rule of law or contravene public policy, and a court will not attempt to alter the expressed intentions of the parties if they are clear and unambiguous. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1911101573&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Vardaman v. Benefit Association of Railway Employees,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 263 Ala. 236, 82 So.2d 272 (1955)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li360 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1988046451&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_1319&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_1319" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Advertiser Co. v. Electronic Engineers, Inc.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 527 So.2d 1317, 1319 (Ala.Civ.App.1988)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.\u8221\'3f
+\par 
+}
+}
+}
+}
+}
+}\f2 \li360 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B010102002052444_1}{\*\bkmkend co_footnote_B010102002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B010102002052444_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+10
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In determining in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992178845&pubNum=735&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=RP&fi=co_pp_sp_735_408&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_735_408" }{\fldrslt 
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Layne v. Garner,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 612 So.2d 404, 408 (Ala.1992)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, whether a contract or a contractual provision is unconscionable, this Court stated, \u8220\'3fIn addition to finding that one party was unsophisticated and/or uneducated, a court should ask (1) whether there was an absence of meaningful choice on one party\rquote s part, (2) whether the contractual terms are unreasonably favorable to one party, (3) whether there was unequal bargaining power among the parties, and (4) whether there were oppressive, one-sided, or patently unfair terms in the contract.\u8221\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B011112002052444_1}{\*\bkmkend co_footnote_B011112002052444_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B011112002052444_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+11
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+I agree that, in a proper case, invalidation of an arbitration provision based on unconscionability is invalidation \u8220\'3fupon such grounds as exist at law or in equity for the revocation of any contract.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+9 U.S.C. \u167\'3f 2 (1999)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. However, the majority does not invalidate the arbitration provision; instead, it rewrites the provision to excise only those words waiving any award of punitive damages. I see nothing in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+9 U.S.C. \u167\'3f 2
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ that authorizes the rewriting of arbitration provisions to suit the sensibilities of the particular state; rather, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=9USCAS2&originatingDoc=I09eaf8600bf411d9bc18e8274af85244&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+9 U.S.C. \u167\'3f 2
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ addresses the validity of a contract to arbitrate: \u8220\'3fA written provision ... to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, ... 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+shall be valid, irrevocable, and enforceable,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ save upon such grounds as exist at law or in equity for the 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+revocation
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ of any contract.\u8221\'3f (Emphasis added.)
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf21 \brdrs \clbrdrb \clbrdrl \trql \clvertalt \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf21 \brdrs \clbrdrb \clbrdrr \trql \clvertalt \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf21 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf21 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf21 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf21 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf21 \i0 
+\u169\'3f 2017 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf21 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }
