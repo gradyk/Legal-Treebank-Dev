@@ -146,9 +146,17 @@ edition {
     margin-bottom:10pt
 }
 
-lawcit {
-    text-decoration: none;
-    border-bottom: 6px solid #84E7F8
+lawcit {   
+    display:block;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:12pt;
+    text-align:left;
+    margin-bottom:10pt;
+    text-decoration-line: underline;
+    text-decoration-color: #00FF00;
+    border-bottom: none
 }
 
 s[type="issue"] {
@@ -168,7 +176,11 @@ s {
     margin-right:auto;
     font-size:12pt;
     text-align:left;
-    margin-bottom:10pt
+    margin-bottom:10pt;
+    text-decoration-line: underline;
+    text-decoration-color: #FFA500;
+    text-deocration-style: wavy;
+    border-bottom: none
 }
 
 s[type="holding"] {
@@ -189,4 +201,14 @@ s[type="fact"] {
 s[type="rule"] {
     text-decoration: none; 
     border-bottom: 6px solid #FFFF00
+}
+
+head {
+    display:block;
+    width:6.5in;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:12pt;
+    text-align:center;
+    margin-bottom:10pt;
 }
