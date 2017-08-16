@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../Case%20CSS/Caselaw.css"?>
+<?xml-model href="../Case%20Schemas/out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <ref target="TBD"/>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Michigan State University College of Law</p>
+                <p>Case Tagging Project</p>
+                <p>Legal Treebank</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Link to Print Version of Case</p>
+            </sourceDesc>
+            <lawStmt>
+                <casecourt>Supreme Court of Alabama</casecourt>
+                <casename>ALTERNATIVE FINANCIAL SOLUTIONS, LLC v. Luna Clifton COLBURN, Jr.; Money Service Centers, LLC v. Colleen C. Harris</casename>
+                <casenum>1001285 and 1001493</casenum>
+                <casedispo>Affirmed</casedispo>
+                <caserpt>821 So.2d 981</caserpt>
+                <casedate>Nov. 16, 2001</casedate>
+            </lawStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><p><s n="1">These consolidated appeals are from denials of the defendants' motions to compel arbitration. </s><s n="2">We affirm the orders entered by the trial courts denying the motions to compel arbitration, although for different reasons than those given by the trial courts.</s></p></div>
+            
+            <div><head>Facts and Background</head></div>
+            
+            <div><p><s n="3">The defendants in the two cases below, Alternative Financial Services, LLC ("AFS"), and Money Service Centers, LLC ("MSC"), are engaged in the business commonly referred to as "payday lending." </s><s n="4">The plaintiffs in those cases, Luna Clifton Colburn and Colleen Harris, are individuals who entered into "payday-loan" transactions with AFS and MSC, respectively. </s><s n="5">Colburn sued AFS in the Tuscaloosa Circuit Court and Harris sued MSC in the Madison Circuit Court. </s><s n="6">Both plaintiffs alleged, among other things, that their payday-loan transactions violated </s><lawcit>sec. 5–18–1 et seq., Ala.Code 1975, </lawcit><s n="7">known as the Alabama Small Loan Act, and that the transactions were, therefore, illegal and unenforceable as a matter of law.</s></p>
+
+            <p><s n="8">AFS and MSC moved to enforce the arbitration provisions contained in the contracts executed by Colburn and Harris. </s><s n="9">In response to AFS's and MSC's motions to compel arbitration, Colburn and Harris asserted, among other things, that AFS and MSC had failed to establish that the transactions "substantially affected interstate commerce." </s><lawcit>See Sisters of the Visitation v. Cochran Plastering Co., 775 So.2d 759 (Ala.2000). </lawcit><s n="10">Colburn and Harris also asserted that, under </s><lawcit>Alabama Catalog Sales v. Harris, 794 So.2d 312 (Ala.2000), </lawcit><s n="11">the issue whether the contracts were illegal as a matter of law was for the trial court, rather than an arbitrator, to decide.</s></p>
+
+            <p><s n="12">AFS and MSC responded that the transactions met the substantial-interstate-commerce requirement and that, based on a consent order entered by the Montgomery Circuit Court in pending litigation styled Alabama Check Cashers Association et al. v. The State Banking Department, </s><lawcit>CV–980–1555–R </lawcit><s n="13">(hereinafter referred to as the "ACCA" action), the Alabama Small Loan Act was not applicable to the plaintiffs' transactions.</s></p>
+
+            <p><s n="14">On April 4, 2001, the Tuscaloosa Circuit Court denied AFS's motion to compel arbitration, holding that Colburn had presented substantial evidence indicating that the payday-loan contract containing the arbitration provision was illegal. </s><s n="15">The judge stated in his order that "[i]f the contract is void, then the arbitration claim is void as a matter of law." </s><s n="16">On May 9, 2001, the Madison Circuit Court denied MSC's motion to compel arbitration, on this same ground. </s><s n="17">AFS and MSC appeal the denial of their motions to compel arbitration, asserting the following issue for our consideration:</s></p>
+            
+            <p><s n="18">"Whether the trial courts erred in determining that Luna Clifton Colburn and Colleen Harris presented substantial evidence of illegality when the undisputed evidence shows that the transactions in question were conducted in compliance with a lawful Consent Order approved by the State Banking Department and entered in the Circuit Court of Montgomery County [in the pending ACCA action]."</s></p>
+            
+            <p><s n="19">AFS and MSC also urge this Court to overrule Alabama Catalog Sales v. Harris, supra, because, they say, it directly conflicts with the Federal Arbitration Act and with the United States Supreme Court's holding in Prima Paint Corp. v. Flood &amp; Conklin Manufacturing Co., </s><lawcit>388 U.S. 395, 87 S.Ct. 1801, 18 L.Ed.2d 1270 (1967). </lawcit><s n="20">However, because of our resolution of the first issue, we need not address this issue.</s></p></div>
+            
+            <div><head>Discussion</head></div>
+            
+            <div><p><s n="21">In order to determine whether the trial courts in these cases erred in denying AFS's and MSC's motions to compel arbitration this Court must first determine whether AFS and MSC have established that a written agreement to arbitrate exists in a transaction substantially affecting interstate commerce. </s><lawcit>See Brown v. Dewitt, Inc., 808 So.2d 11, 14 (Ala.2001), and Ex parte Greenstreet, Inc., 806 So.2d 1203, 1207 (Ala.2001). </lawcit><s n="22">In Ex parte Greenstreet, this Court stated:</s></p>
+            
+            <p><s n="23">"At a trial on the issue whether a dispute is subject to arbitration, the party moving for arbitration has the burden of proving the existence of a contract containing an arbitration clause, in a transaction that substantially affects interstate commerce. </s><s n="24">If the party moving to compel arbitration fails to make such a showing, the burden of proof does not shift to the opposing party and the motion should be denied." (Citations omitted.)</s></p> 
+                
+            <p><s n="25">Thus, as the movants seeking to compel arbitration, AFS and MSC had the initial burden of proof before the trial court. </s><s n="26">If AFS and MSC failed to meet their burden, then their motions to compel were properly denied and this Court need not address the other issues AFS and MSC raise on appeal.</s></p>
+
+            <p><s n="27">Colburn and Harris do not contest the existence of the arbitration provisions in their contracts and they do not deny that they signed those contracts. </s><s n="28">Colburn and Harris do, however, assert that AFS and MSC have not established that their payday-loan transactions "substantially affected interstate commerce" so as to trigger the application of the Federal Arbitration Act ("the FAA").</s></p>
+
+            <p><s n="29">In Sisters of the Visitation, supra, this Court recognized five factors relevant to determining whether a transaction substantially affects interstate commerce: (1) the citizenship of the parties and any affiliation they might have with out-of-state entities; (2) where the tools and equipment used at the project site originated and whether they had moved in interstate commerce; (3) the allocation of costs and services involved in the project; (4) subsequent movement across state lines; and (5) the degree of separability from other contracts. </s><lawcit>775 So.2d at 766. </lawcit><s n="30">"As noted in Sisters of the Visitation, our analysis of this issue is necessarily fact-intensive and in making that analysis we are limited to the facts contained in the record." </s><lawcit>Brown v. Dewitt, Inc., 808 So.2d at 12.</lawcit></p>
+
+            <p><s n="31">Although the relevant facts in Sisters of the Visitation—a case involving a local construction dispute—are not a perfect fit to the facts of these cases—cases involving loan transactions—the factors identified in Sisters of the Visitation are nonetheless applicable here. </s><s n="32">An application of these five factors reveals that the evidence presented by AFS and MSC is insufficient to establish that the contracts had a substantial effect on interstate commerce so as to trigger the FAA. </s><s n="33">As an initial matter, we note that AFS and MSC both offered the affidavit testimony of Kaylan Holmes, who claims to have personal knowledge of the facts contained in her affidavits. </s><s n="34">However, Ms. Holmes's affidavits fail to identify what position, if any, she holds with AFS and with MSC or in what capacity she is testifying. </s><s n="35">As Colburn and Harris noted in their briefs to this Court, we have no way of knowing how Ms. Holmes has "personal knowledge of the facts contained in [her] affidavit [s]." </s><s n="36">In any event, even accepting the testimony contained in Ms. Holmes's affidavits as true, we are unable to find the effect on interstate commerce to be substantial, under the analysis required by Sisters of the Visitation.</s></p></div>
+            
+            <div><head>Application of Sisters of the Visitation to the Evidence Presented in this Case</head></div>
+            
+            <div><p><s n="37">(1) Citizenship of the parties and any affiliation they might have with out-of-state entities. </s><s n="38">The evidence establishes that AFS operates its business in Tuscaloosa and that MSC operates its business in Birmingham. </s><s n="39">AFS and MSC, however, assert that they are limited liability companies organized under the laws of the State of Illinois and that they are, therefore, not Alabama entities. </s><s n="40">However, neither AFS nor MSC traveled to Alabama to engage in business with Colburn and Harris; both were already doing business in Alabama when they entered into the payday-loan transactions at issue in these cases. </s><s n="41">Thus, the fact that AFS and MSC are organized as business entities in a different state is not determinative of whether these particular transactions substantially affected interstate commerce.</s></p>
+
+            <p><s n="42">AFS and MSC also assert that because the "owners" of the limited liability companies reside outside Alabama, Colburn's and Harris's transactions with AFS and MSC, therefore, involved interstate commerce. </s><s n="43">We do not find this evidence relevant to the determination whether Colburn's transactions, entered into with AFS in Tuscaloosa, and Harris's transactions, entered into with MSC in Birmingham, substantially affected interstate commerce. </s><s n="44">The only manner in which Colburn's and Harris's transactions could impact the owners of AFS and MSC, who are located outside this state, is by impacting the net earnings of those companies and thereby impacting the profits or losses of their out-of-state owners. </s><s n="45">We conclude that the payday-loan transactions at issue in these cases were separate and complete transactions, unrelated to the subsequent determination of AFS's and MSC's net earnings and the subsequent determination of the profits or losses to be attributed to the owners of those companies.</s></p>
+
+            <p><s n="46">The evidence before this Court establishes that Colburn and Harris, who are Alabama residents, entered local businesses; they filled out applications for a payday loan; and once those applications were accepted, they wrote checks on local banks. </s><s n="47">AFS and MSC processed those applications by entering information into computers and accessing the Internet via those computers. </s><s n="48">AFS and MSC advanced Colburn and Harris a small amount of money, presumably obtained through local sources, and agreed to hold the checks Colburn and Harris had written for the money for a week or two, at which time Colburn and Harris were to return to the local AFS and MSC locations and repay the advance, again, presumably with local funds.</s></p>
+
+            <p><s n="49">We conclude that these transactions, based upon the evidence before us, were primarily intrastate in nature. </s><s n="50">Accordingly, this factor does not support the motions to compel arbitration filed by AFS and MSC.</s></p>
+
+            <p><s n="51">(2) Where the tools and equipment used at the project site originated. AFS and MSC failed to establish that any of the tools, equipment, or materials used to complete the payday loans obtained by Colburn and Harris were obtained in interstate commerce. </s><s n="52">Neither AFS nor MSC offered any evidence to establish that the computers, the employees, or even the funds used in the payday loans traveled in interstate commerce or that any of those items were obtained specially for these transactions. </s><s n="53">The only evidence AFS or MSC offered that even remotely related to this factor was that the information used in processing the loans traveled over the Internet to an out-of-state site. </s><s n="54">As Colburn and Harris correctly assert, this involved no more than a long-distance telephone call placed by AFS and MSC via the Internet. </s><s n="55">Assuming, without deciding, that the movement of information in the manner presented here could substantially affect interstate commerce, we conclude that, in this case, the single Internet access involved in each of the payday-loan transactions does not rise to the level of a "substantial effect on interstate commerce," as required under Sisters of the Visitation.</s></p>
+
+            <p><s n="56">(3) Intrastate versus interstate allocation of costs and services involved in the project. </s><s n="57">AFS and MSC offered no evidence regarding the intrastate versus interstate allocation of costs and services involved in the payday-loan transactions. </s><s n="58">Thus, this factor does not support the motions to compel arbitration filed by AFS and MSC.</s></p>
+
+            <p><s n="59">(4) Subsequent movement across state lines. </s><s n="60">The payday-loan transactions at issue in these cases involve the advancing of money. </s><s n="61">Citing American General Finance, Inc. v. Branch,</s><lawcit> 793 So.2d 738 (Ala.2000), </lawcit><s n="62">AFS and MSC assert that this Court has recognized that money is "intrinsically mobile" and, therefore, that they have met their burden of proof under Sisters of the Visitation.</s></p>
+
+            <p><s n="63">However, this argument fails for two reasons. </s><s n="64">First, the evidence offered in this case is distinguishable from that offered in American General Finance. </s><s n="65">The evidence in American General Finance established that the funds loaned in that case came from an out-of-state affiliate of American General Finance and originated from an out-of-state bank account. </s><s n="66">Additionally, upon the plaintiff's repayment of the loan, the money was again routed to an out-of-state bank account. </s><s n="67">The record in this case contains no evidence of the type of interstate involvement found in American General Finance. </s><s n="68">Thus, the evidence in American General Finance established a much greater degree of interstate involvement in its loan transaction than that established in this case.</s></p>
+
+            <p><s n="69">Moreover, in American General Finance we noted that "the object of the transaction—the loan proceeds—was intrinsically mobile. </s><s n="70">In other words, the proceeds enabled [the borrowers] subsequently to purchase goods and services that traveled in interstate commerce."</s></p>
+            
+            <p><lawcit>American General Finance, 793 So.2d at 747. </lawcit><s n="71">Although we agree that loan proceeds—moneys—are "mobile," this language does not stand for the proposition that a loan transaction inherently triggers the FAA; to construe this language in such a manner would be at odds with this Court's holding in Sisters of the Visitation, supra, and many subsequent cases. </s><s n="72">Further, the simple fact that loan proceeds are "mobile" does not require the conclusion that all loan transactions are inherently interstate in nature.</s></p>
+                
+            <p><s n="73">In this case, neither AFS nor MSC offered any evidence indicating that the funds for the payday loans originated in interstate commerce. </s><s n="74">Additionally, neither AFS nor MSC offered any evidence indicating that the proceeds of the loans were used in interstate commerce. </s><s n="75">Moreover, the amounts of the loans were small—each loan involved increments of less than $300. </s><s n="76">Based on the record before us, there simply is no basis upon which to conclude that any of Colburn's or Harris's payday-loan transactions "substantially affected interstate commerce." </s><s n="77">Accordingly, this factor does not support the motions to compel arbitration filed by AFS and MSC.</s></p>
+
+            <p><s n="78">(5) The degree of separability from other contracts. </s><s n="79">The record is devoid of any evidence that Colburn's or Harris's payday loans are interrelated with any other contracts. </s><s n="80">Accordingly, this factor does not support the motions to compel arbitration filed by AFS and MSC.</s></p>
+
+            <p><s n="81">Based on the record before us, we conclude that the payday-loan transactions did not substantially affect interstate commerce. </s><s n="82">Accordingly, we affirm the orders entered by the Tuscaloosa Circuit Court and the Madison Circuit Court, although for different reasons than those given by the trial courts. </s><s n="83">Because our conclusion that the transactions at issue did not "substantially affect interstate commerce" requires us to affirm the orders entered by the trial courts, we pretermit consideration of the other issues raised on appeal. </s><s n="84">We express no opinion as to the merits of those remaining issues.</s></p></div>
+        </body>
+    </text>
+</TEI>
+

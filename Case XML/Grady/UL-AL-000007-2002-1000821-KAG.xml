@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../Case%20CSS/Caselaw.css"?>
+<?xml-model href="../Case%20Schemas/out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <ref target="TBD"/>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Michigan State University College of Law</p>
+                <p>Case Tagging Project</p>
+                <p>Legal Treebank</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Link to Print Version of Case</p>
+            </sourceDesc>
+            <lawStmt>
+                <casecourt>Supreme Court of Alabama</casecourt>
+                <casename>CONSECO FINANCE CORPORATION—ALABAMA
+                    v.
+                    Racheal M. BOONE</casename>
+                <casenum>1000821</casenum>
+                <casedispo>REVERSED AND REMANDED</casedispo>
+                <caserpt>838 So.2d 370</caserpt>
+                <casedate>June 14, 2002</casedate>
+            </lawStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div><p><s n="1">The defendant Conseco Finance Corporation—Alabama (formerly known as Green Tree Financial Corporation—Alabama) appeals the order of the trial court denying the motion of Conseco to compel the plaintiff Racheal M. Boone to arbitrate her claims. </s><s n="2">We reverse and remand.</s></p>
+
+            <p><s n="3">Boone, an Alabama resident, purchased a manufactured home from SC Tuscaloosa Co., Inc., now known as Southern Energy Homes Retail Corporation, a seller of manufactured homes in Tuscaloosa, Alabama. </s><s n="4">Boone executed a "Manufactured Home Retail Installment Contract and Security Agreement" to purchase the manufactured home, which had been manufactured by Homes of Legend, Inc. ("HOL"), a Michigan corporation with its principal place of business in Boaz, Alabama. </s><s n="5">The installment contract contained an assignment to "Green Tree Financial Corp.—Alabama [now Conseco, a Delaware corporation], 324 Interstate Park Drive, Montgomery, AL 36109."</s></p>
+
+            <p><s n="6">Within a year after purchasing the manufactured home, Boone noticed that leaks in the home caused water damage to the carpet and the underlying floor. </s><s n="7">After several attempts by the dealer to repair the home failed to satisfy Boone, she sued Southern Energy, HOL, and Conseco for fraudulent misrepresentation, fraudulent suppression, the tort of outrage, and negligent hiring and supervision. </s><s n="8">Each defendant moved to compel Boone to arbitrate her claims. </s><s n="9">The motions to compel arbitration filed by Southern Energy and HOL and the denials of those two motions are not before us, because Southern Energy settled Boone's claims and HOL dismissed its appeal.</s></p>
+
+            <p><s n="10">Conseco, to support its motion to compel arbitration, relied upon an arbitration provision in the installment contract, which reads, in pertinent part:</s></p>
+            
+            <p><s n="11">"14. ARBITRATION: ALL DISPUTES, CLAIMS, OR CONTROVERSIES ARISING FROM OR RELATING TO THIS CONTRACT OR THE PARTIES THERETO SHALL BE RESOLVED BY BINDING ARBITRATION BY ONE ARBITRATOR SELECTED BY YOU WITH MY CONSENT. </s><s n="12">['You,' 'your' means the Seller and also the Assignee or their affiliates (after the Contract is assigned by Seller).] </s><s n="13">THIS AGREEMENT IS MADE PURSUANT TO A TRANSACTION IN INTERSTATE COMMERCE AND SHALL BE GOVERNED BY THE FEDERAL ARBITRATION ACT AT 9 U.S.C. SECTION 1.... </s><s n="14">YOU RETAIN AN OPTION TO USE JUDICIAL (FILING A LAWSUIT) OR NON–JUDICIAL RELIEF TO ENFORCE A SECURITY AGREEMENT RELATING TO THE MANUFACTURED HOME SECURED IN A TRANSACTION UNDERLYING THIS ARBITRATION AGREEMENT, TO ENFORCE THE MONETARY OBLIGATION SECURED BY THE MANUFACTURED HOME OR TO FORECLOSE ON THE MANUFACTURED HOME....</s></p>
+            
+            <p><s n="15">"15. WAIVER OF JURY TRIAL: </s><s n="16">I HEREBY WAIVE ANY RIGHT TO A TRIAL BY JURY THAT I HAVE IN ANY SUBSEQUENT LITIGATION BETWEEN ME AND THE SELLER, OR ME AND ANY ASSIGNEE OF THE SELLER, WHERE SUCH LITIGATION ARISES OUT OF, IS RELATED TO, OR IS IN CONNECTION WITH ANY PROVISION OF THIS CONTRACT WHETHER THE CONTRACT IS ASSERTED AS THE BASIS FOR A CLAIM, COUNTERCLAIM OR CROSSCLAIM, OR A DEFENSE TO A CLAIM, COUNTERCLAIM, OR CROSSCLAIM."</s><s n="17"> (Capitalization in original.)</s></p> 
+    
+            <p><s n="18">Following these provisions is the language:</s></p>
+            
+            <p><s n="19">"MY SIGNATURE BELOW ACKNOWLEDGES I UNDERSTAND PARAGRAPHS 14 AND 15 ABOVE REQUIRE BINDING ARBITRATION AND WAIVE MY RIGHT TO A JURY TRIAL IF A DISPUTE ARISES UNDER THIS CONTRACT."</s></p>
+            
+            <p><s n="20">(Capitalization in original.) </s><s n="21">Boone's signature follows these provisions.</s></p>
+
+            <p><s n="22">The parties conducted discovery on whether the arbitration provision is enforceable. </s><s n="23">Boone submitted the deposition of Kenny Holt, a corporate representative of Conseco; the deposition of Tim Sims, a representative of HOL; and a copy of the Commercial Rules of the American Arbitration Association. </s><s n="24">Conseco submitted the installment contract and an affidavit from the credit manager of Conseco, Jason Stalcup. Stalcup's affidavit states facts to fulfill the interstate commerce criterion of the Federal Arbitration Act ("FAA") and to address some aspects of Boone's claim that the arbitration provision is unconscionable.</s></p>
+
+            <p><s n="25">Two issues are before us: 1) whether Conseco satisfied its initial burden of establishing that the installment contract substantially affected interstate commerce so that the FAA applies and 2) whether Boone satisfied her burden of proving her affirmative claim of unconscionability, see Rule 8(c),</s><lawcit> Ala. R. Civ. P., </lawcit><s n="26">which she asserted to avoid operation of the arbitration provision.</s></p></div>
+            
+            <div><head>I. Interstate Commerce Criterion</head></div>
+            
+            <div><p><s n="27">Conseco argues that Stalcup's affidavit proves that the installment contract had enough effect on interstate commerce to support the application of the FAA and thereby to require Boone to arbitrate her claims against Conseco. </s><s n="28">The facts cited by Conseco to establish the interstate commerce criterion for the application of the FAA are indistinguishable from the facts this Court found sufficient to satisfy the interstate commerce criterion in Green Tree Fin. Corp. v. Lewis,</s><lawcit> 813 So.2d 820 (Ala.2001). </lawcit><s n="29">Thus, Conseco has satisfied its initial burden of establishing that the installment contract had a substantial effect on interstate commerce.</s></p></div>
+            
+            <div><head>II. Unconscionability</head></div>
+            
+            <div><p><s n="30">The only argument asserted by Boone on appeal is that the arbitration provision is unconscionable and, therefore, unenforceable. </s><s n="31">Boone cites American General Fin., Inc. v. Branch,</s><lawcit> 793 So.2d 738 (Ala.2001),</lawcit><s n="32"> in support of her unconscionability argument.</s></p>
+
+            <p><s n="33">"Unconscionability is an affirmative defense, Green Tree Fin. Corp. v. Wampler,</s><lawcit> 749 So.2d 409, 415 (Ala.1999),</lawcit><s n="34"> and the party asserting the defense bears the burden of proof. </s><lawcit>Ex parte Napier, 723 So.2d 49, 52–53 (Ala.1998)." Fleetwood Enters., Inc. v. Bruno, 784 So.2d 277, 281 (Ala.2000). </lawcit><s n="35">This Court has previously held that arbitration provisions not materially distinguishable from the one in the installment contract executed by Boone are not unconscionable.</s><lawcit> See Green Tree Fin. Corp. v. Lewis, supra; Green Tree Fin. Corp. v. Wampler, supra; Green Tree Fin. Corp. v. Vintson, 753 So.2d 497 (Ala.1999); Ex parte Parker, 730 So.2d 168 (Ala.1999); and Ex parte Napier, 723 So.2d 49 (Ala.1998). </lawcit><s n="36">Further, the case of American General Fin., Inc. v. Branch does not support Boone's argument that the arbitration provision in the case before us is unenforceable on the ground of unconscionability. </s><s n="37">As we explained in the analogous case of Green Tree Fin. Corp. v. Lewis:</s></p>
+            
+            <p><s n="38">"The arbitration provision in Branch limited the kind of damages the plaintiff could recover. </s><s n="39">No such limitation appears in the arbitration provision now before the Court. </s><s n="40">[Boone has] made no showing that [she] lacked a meaningful choice in obtaining financing; the plaintiff in Branch did make such a showing. </s><s n="41">Nothing in the record details the lending practices of lenders other than [evidence indicating Conseco's control of 38% of the market for financing of mobile homes in April 2000—four years after Boone had executed her contract in 1996]. </s><s n="42">Nothing in the record suggests that [Boone] attempted to 'shop around' for a financing arrangement that would not call for arbitration of disputes."</s></p></div>
+            
+            <div><head>Conclusion</head></div>
+
+<div><p><s n="43">For the reasons stated, we reverse the order of the trial court denying the motion of Conseco to compel arbitration. </s><s n="44">We remand this case for the trial court to enter an order compelling Boone to arbitrate her claims against Conseco.</s></p></div>
+        </body>
+    </text>
+</TEI>
+
