@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../Case%20CSS/Caselaw.css"?>
+<?xml-model href="../Case%20Schemas/out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+<titleStmt>
+    <title></title>
+</titleStmt>
+<editionStmt>
+    <edition>
+        <ref target="TBD"/>
+    </edition>
+</editionStmt>
+<publicationStmt>
+    <p>Michigan State University College of Law</p>
+    <p>Case Tagging Project</p>
+    <p>Legal Treebank</p>
+</publicationStmt>
+<sourceDesc>
+    <p>Link to Print Version of Case</p>
+</sourceDesc>
+<lawStmt>
+    <casecourt></casecourt>
+    <casename>David VANN and Brenda Vann v. FIRST COMMUNITY CREDIT CORPORATION</casename>
+    <casenum>Supreme Court of Alabama</casenum>
+    <casedispo>Affirmed</casedispo>
+    <caserpt>834 So.2d 751</caserpt>
+    <casedate>March 8, 2002</casedate>
+</lawStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div><p><s n="1">The plaintiffs in this action, David Vann and Brenda Vann, appeal from the trial court's order granting a motion by the defendant, First Community Credit Corporation (hereinafter "First Community"), to compel arbitration. </s><s n="2">We affirm.</s></p>
+
+<p><s n="3">The Vanns executed a note, along with an arbitration agreement, with First Community to purchase a 1995 Pontiac Grand Prix from an automobile dealer. </s><s n="4">The Vanns also purchased property insurance on the vehicle and credit-life insurance from First Community; the premiums for the policies for that insurance were included in the total amount due on the note and consequently on the monthly payments the Vanns were to make on the note. </s><s n="5">The Vanns claim that First Community's agents represented that the amount of the premiums could be removed from the monthly payment amount if the Vanns later purchased equivalent insurance on their own.</s></p>
+
+<p><s n="6">Subsequently, the Vanns purchased property insurance on the vehicle from another source; they then requested that the property-insurance premiums for the policy purchased from First Community be deducted from the monthly payments. </s><s n="7">The Vanns claim that in response to their request First Community's employees told them that the only way to remove the premiums from their payments would be to refinance the loan.</s></p>
+
+<p><s n="8">The Vanns sued First Community, claiming that First Community made the following fraudulent misrepresentations: (1) that the Vanns were required to purchase the insurance to secure the financing, (2) that the premiums would be deducted from the monthly payments the Vanns were to make on the note if the Vanns subsequently purchased separate insurance, and (3) that the Vanns had to refinance the note to remove the insurance premiums from their payments. </s><s n="9">The Vanns also claimed that First Community was estopped from refusing to remove the insurance premiums from their payments and that they suffered emotional distress from First Community's intentional acts.</s></p>
+
+<p><s n="10">First Community submitted evidentiary exhibits and moved the trial court to compel arbitration. </s><s n="11">The Vanns objected to the motion and submitted evidentiary exhibits with their reply. </s><s n="12">The trial court granted the motion to compel arbitration. </s><s n="13">The Vanns appeal.</s></p>
+
+<p><s n="14">On October 1, 2001, Rule 4(d) of the Alabama Rules of Appellate Procedure became effective. </s><s n="15">Rule 4(d) provides that orders both granting and denying a motion to compel arbitration are reviewable by appeal. </s><s n="16">Previously, a party could obtain review of an order granting a motion to compel arbitration only by a petition for a writ of mandamus. </s><lawcit>Court Comment to Amendment to Rule 4(a)(1) and Adoption of Rule 4(d) effective October 1, 2001, Ala.R.App.P. </lawcit><s n="17">Because the Vanns filed their notice of appeal on October 2, 2001, the amended rule allowing review by appeal governs this action.</s></p>
+
+<p><s n="18">"[T]he standard of review of a trial court's ruling on a motion to compel arbitration at the instance of either party is a de novo determination of whether the trial judge erred on a factual or legal issue to the substantial prejudice of the party seeking review." </s><lawcit>Ex parte Roberson, 749 So.2d 441, 446 (Ala.1999). Furthermore:</lawcit></p>
+
+<p><s n="19">"A motion to compel arbitration is analogous to a motion for summary judgment. </s><lawcit>TranSouth Fin. Corp. v. Bell, 739 So.2d 1110, 1114 (Ala.1999). </lawcit><s n="20">The party seeking to compel arbitration has the burden of proving the existence of a contract calling for arbitration and proving that that contract evidences a transaction affecting interstate commerce. </s><lawcit>Id. </lawcit><s n="21">'After a motion to compel arbitration has been made and supported, the burden is on the non-movant to present evidence that the supposed arbitration agreement is not valid or does not apply to the dispute in question.' "</s></p>
+
+<p><lawcit>Fleetwood Enters., Inc. v. Bruno, 784 So.2d 277, 280 (Ala.2000) (quoting Jim Burke Auto., Inc. v. Beavers, 674 So.2d 1260, 1265 n. 1 (Ala.1995) (emphasis omitted)).</lawcit></p>
+
+<p><s n="22">The Vanns maintain that the arbitration agreement they signed in conjunction with the note is unconscionable; therefore, they argue, the trial court erred in compelling arbitration. </s><s n="23">In determining whether a contract is unconscionable, courts look to four factors: "(1) whether there was an absence of meaningful choice on one party's part, (2) whether the contractual terms are unreasonably favorable to one party, (3) whether there was unequal bargaining power among the parties, and (4) whether there were oppressive, one-sided or patently unfair terms in the contract." </s><lawcit>Layne v. Garner, 612 So.2d 404, 408 (Ala.1992).</lawcit></p>
+
+<p><s n="24">The pertinent portions of the arbitration agreement in this case read as follows:</s></p>
+    
+<p><s n="25">"[T]he borrower and [First] Community Credit Corporation, by executing this Agreement, waive their right to trial by jury of disputes, claims or controversies between themselves arising out of or relating to this Agreement or any agreements or instruments relating to this agreement, and the Borrower and [First] Community Credit Corporation agree that all such disputes, claims or controversies shall be resolved exclusively by binding arbitration ... </s><s n="26">[A]ny dispute, claim, or controversy between the Borrower and [First] Community Credit Corporation, whether based in contract, tort or otherwise, in any way arising out of or relating to this Agreement or any agreements or instruments relating to this Agreement shall be resolved exclusively by binding arbitration....</s></p>
+
+<p><s n="27">"....</s></p>
+
+<p><s n="28">"No provision of, or the exercise of any rights under this paragraph shall limit the right of any party to exercise (in addition to its right to arbitrate) any self-help remedies or the right of set-off, to realize upon or foreclose against any personal or real property collateral or security whether pursuant to a power of sale or by judicial foreclosure or otherwise, or to obtain provisional or ancillary remedies such as injunctive relief, or the appointment of a receiver, or to seek or obtain any other traditionally equitable relief which does not claim money damages from any court, agency or tribunal before, after or during the pendency of any arbitration."</s></p>
+
+<p><s n="29">The Vanns argue that the arbitration agreement in this case is unconscionable because, they say, (1) the scope of the arbitration agreement is too broad, (2) the agreement exempts First Community from the duty to arbitrate, and (3) they lacked bargaining power when they executed the agreement. </s><s n="30">The Vanns thus claim that their case is similar to American General Finance, Inc. v. Branch, </s><lawcit>793 So.2d 738 (Ala.2000), </lawcit><s n="31">a case in which we found unconscionable an arbitration agreement executed in conjunction with a note. </s><s n="32">However, the facts in Branch are distinguishable from those in this case.</s></p>
+
+<p><s n="33">In Branch, we noted several indicia of unconscionability in the agreement at issue there, including: (1) the arbitration provision was very broad in scope; (2) it assigned the determination of threshold issues regarding arbitrability to the arbitrator; (3) it exempted the lender from the duty to arbitrate; and (4) it put a cap on the arbitrator's award. Furthermore, we held that the borrower proved that the bargaining power of the lender was overwhelming. </s><lawcit>Branch, 793 So.2d at 748–49.</lawcit></p>
+
+<p><s n="34">Unlike the arbitration provision in Branch, the agreement in this case does not assign threshold determinations of arbitrability to the arbitrator, nor does it limit the amount of damages the arbitrator may award. </s><s n="35">Furthermore, although the agreement does exempt from arbitration certain traditionally equitable claims by either party, the agreement does not require that the Vanns arbitrate their claims while allowing First Community to pursue the same claims in court. </s><s n="36">In any event, the lack of mutuality of remedy, alone, is not sufficient to support a claim of unconscionability. </s><lawcit>Ex parte Parker, 730 So.2d 168, 171 (Ala.1999).</lawcit></p>
+
+<p><s n="37">The Vanns also assert that, like the borrowers in Branch, they lacked bargaining power because they were sent to the defendant by the automobile dealer and because of their limited educations. </s><s n="38">The Vanns, however, presented no evidence indicating that they were unable to find an alternate lender or that the dealer required them to use First Community. </s><s n="39">Furthermore, the Vanns' lack of education does not relieve them of their contractual obligations. " </s><s n="40">'[A] person who signs an instrument without reading it, when he can read, can not, in the absence of fraud, deceit, or misrepresentation, avoid the effect of his signature, because [he is] not informed of its contents....' " </s><lawcit>Mitchell Nissan, Inc. v. Foster, 775 So.2d 138, 140 (Ala.2000) (holding that the plaintiff could "not avoid his contractual obligation" because he read at only a sixth-grade level) (quoting Beck &amp; Pauli Lithographing Co. v. Houppert, 104 Ala. 503, 506, 16 So. 522, 522 (1894)).</lawcit></p>
+
+<p><s n="41">The Vanns had the burden of proving that the arbitration agreement was unconscionable. </s><lawcit>Parker, 730 So.2d at 171. </lawcit><s n="42">They have not put forth substantial evidence demonstrating that the terms of the agreement are grossly favorable to First Community or that First Community had overwhelming bargaining power. </s><s n="43">Therefore, the trial court did not err in failing to hold that the agreement was unconscionable.</s></p>
+
+<p><s n="44">Finally, the Vanns claim that the arbitration agreement does not cover their claims because, they argue, the alleged fraudulent misrepresentations occurred after the note was executed, and thus, they argue, they did not agree to arbitrate those claims. </s><s n="45">On the contrary, the agreement states that the parties will arbitrate any claim "in any way arising out of or relating to this Agreement or any agreements or instruments relating to this Agreement." </s><s n="46">This Court has held, as the Vanns concede, that the phrase "any controversy or claim arising out of or relating to" in arbitration agreements covers a broad range of disputes. </s><lawcit>Ex parte Crisona, 743 So.2d 452, 456 (Ala.1999); Beaver Constr. Co. v. Lakehouse, L.L.C., 742 So.2d 159, 165 (Ala.1999); Reynolds &amp; Reynolds Co. v. King Auto., Inc., 689 So.2d 1, 2–3 (Ala.1996). </lawcit><s n="47">The Vanns' claims "arise" from conduct and representations that allegedly occurred in the execution of the note or that "relate to" conduct and representations by First Community's agents regarding the payment and the insurance component of the payment. </s><s n="48">Therefore, the language of the arbitration agreement covers the Vanns' claims.</s></p>
+
+<p><s n="49">The trial court properly granted First Community's motion to compel arbitration; therefore, we affirm its order.</s></p></div>
+        </body>
+    </text>
+</TEI>
+
