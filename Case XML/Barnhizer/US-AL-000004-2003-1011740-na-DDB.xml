@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../Case%20CSS/Caselaw.css"?>
 <?xml-model href="../Case%20Schemas/out/Caselaw.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Case%20CSS/Caselaw.css"?>
 <TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
