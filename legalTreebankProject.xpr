@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Case%20XML/Barnhizer/US-AL-000001-2014-1990887-DB.xml</String>
+                                    <String>Case%20Queries/Fact.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -29,7 +29,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Case%20Queries/Fact.xquery</String>
+                                    <String>Case%20XML/Barnhizer/US-AL-000001-2014-1990887-DB.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -279,7 +279,7 @@
                                     <String>${pdu}/Case%20Queries/Fact.xquery</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>${pdu}/Case%20XML/Grady/US-AL-000001-2014-1990887-KG.xml</String>
+                                    <String>${pdu}/Case%20XML/Barnhizer/US-AL-000002-2004-1022063-na-DDB-1.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
