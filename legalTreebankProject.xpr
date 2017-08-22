@@ -279,7 +279,7 @@
                                     <String>${pdu}/Case%20Queries/Fact.xquery</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>${pdu}/Case%20XML/Barnhizer/US-AL-000003-2002-1010563-na-DDB-1.xml</String>
+                                    <String>${pdu}/Case%20XML/Barnhizer/US-AL-000005-2001-1000731-na-DDB-1.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
