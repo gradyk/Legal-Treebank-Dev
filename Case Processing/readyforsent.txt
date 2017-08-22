@@ -13,12 +13,12 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <p>Michigan State University College of Law</p>
-                <p>Case Tagging Project</p>
-                <p>Legal Treebank</p>
+                <ab>Michigan State University College of Law</ab>
+                <ab>Case Tagging Project</ab>
+                <ab>Legal Treebank</ab>
             </publicationStmt>
             <sourceDesc>
-                <p>Link to Print Version of Case</p>
+                <ab>Link to Print Version of Case</ab>
             </sourceDesc>
             <lawStmt>
                 <casecourt>Supreme Court of Alabama</casecourt>
